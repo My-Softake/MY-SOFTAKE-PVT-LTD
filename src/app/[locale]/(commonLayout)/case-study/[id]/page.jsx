@@ -17,7 +17,7 @@ const CaseStudyDetailsPage = () => {
       return Array.isArray(raw) ? raw : [];
     } catch (error) {
       console.warn(
-        `Could not resolve ${key} in messages for locale ${locale}. Error: ${error.message}`
+        `Could not resolve ${key} in messages for locale ${locale}. Error: ${error.message}`,
       );
       return [];
     }
@@ -33,11 +33,11 @@ const CaseStudyDetailsPage = () => {
     overview1: t(`items.${id}.overview1`),
 
     challenges: getArray(`items.${id}.challenges`),
-    approach: getArray(`items.${id}.approach`),  
-    solution: getArray(`items.${id}.solution`),  
+    approach: getArray(`items.${id}.approach`),
+    solution: getArray(`items.${id}.solution`),
     technologies: getArray(`items.${id}.technologies`),
     results: getArray(`items.${id}.results`),
-    images: getArray(`items.${id}.images`)
+    images: getArray(`items.${id}.images`),
   };
 
   // Check if case study exists
@@ -62,7 +62,7 @@ const CaseStudyDetailsPage = () => {
       <div
         className="py-10 mt-10 md:py-20"
         style={{
-          background: "linear-gradient(135deg, #17386f 0%, #2b59cf 100%)"
+          background: "linear-gradient(135deg, #17386f 0%, #2b59cf 100%)",
         }}
       >
         <div className="container mx-auto px-4 md:px-10">
@@ -70,9 +70,7 @@ const CaseStudyDetailsPage = () => {
             {t("caseStudyDetails")}
           </h1>
 
-          <p className="text-white max-w-xl mt-6">
-            {t("bannerDescription")}
-          </p>
+          <p className="text-white max-w-xl mt-6">{t("bannerDescription")}</p>
         </div>
       </div>
 
@@ -87,26 +85,26 @@ const CaseStudyDetailsPage = () => {
             <h4 className="text-[#e85a2a] font-bold text-sm uppercase">
               {t("totalDuration")}
             </h4>
-            <p>{caseStudy.duration}</p>
+            <p className="font-normal text-base text-gray-500">{caseStudy.duration}</p>
           </div>
           <div>
             <h4 className="text-[#e85a2a] font-bold text-sm uppercase">
               {t("estimatedInvestment")}
             </h4>
-            <p>{caseStudy.investment}</p>
+            <p className="font-normal text-base text-gray-500">{caseStudy.investment}</p>
           </div>
           <div>
             <h4 className="text-[#e85a2a] font-bold text-sm uppercase">
               {t("projectTarget")}
             </h4>
-            <p>{caseStudy.target}</p>
+            <p className="font-normal text-base text-gray-500">{caseStudy.target}</p>
           </div>
         </div>
 
         {/* Overview */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 mb-10">
           <div>
-            <h3 className="text-3xl font-bold mb-4">{t("overview")}</h3>
+            <h3 className="text-3xl font-bold mb-4 text-black">{t("overview")}</h3>
             <p className="text-gray-600 text-lg">{caseStudy.overview}</p>
             <p className="text-gray-600 text-lg mt-3">{caseStudy.overview1}</p>
           </div>
@@ -126,7 +124,7 @@ const CaseStudyDetailsPage = () => {
         {/* Challenges */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16  mb-10">
           <div>
-            <h3 className="text-3xl font-bold mb-4">{t("challenges")}</h3>
+            <h3 className="text-3xl font-bold mb-4 text-black">{t("challenges")}</h3>
             <ul className="list-disc list-inside space-y-2 text-gray-600 text-lg">
               {caseStudy.challenges.map((challenge, index) => (
                 <li key={index}>{challenge}</li>
@@ -149,7 +147,7 @@ const CaseStudyDetailsPage = () => {
         {/* Approach */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 mb-10">
           <div>
-            <h3 className="text-3xl font-bold mb-4">{t("approach")}</h3>
+            <h3 className="text-3xl font-bold mb-4 text-black">{t("approach")}</h3>
             <ul className="list-disc list-inside space-y-2 text-gray-600 text-lg">
               {caseStudy.approach.map((item, index) => (
                 <li key={index}>{item}</li>
@@ -172,7 +170,7 @@ const CaseStudyDetailsPage = () => {
         {/* Solution */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 mb-10">
           <div>
-            <h3 className="text-3xl font-bold mb-4">{t("solution")}</h3>
+            <h3 className="text-3xl font-bold mb-4 text-black">{t("solution")}</h3>
             <ul className="list-disc list-inside space-y-2 text-gray-600 text-lg">
               {caseStudy.solution.map((item, index) => (
                 <li key={index}>{item}</li>
@@ -194,7 +192,7 @@ const CaseStudyDetailsPage = () => {
         {/* Technologies */}
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-14 mb-10">
           <div>
-            <h3 className="text-3xl font-bold mb-4">{t("technologies")}</h3>
+            <h3 className="text-3xl font-bold mb-4 text-black">{t("technologies")}</h3>
             <ul className="list-disc list-inside space-y-2 text-gray-600 text-lg">
               {caseStudy.technologies.map((item, index) => (
                 <li key={index}>{item}</li>
@@ -216,7 +214,7 @@ const CaseStudyDetailsPage = () => {
 
         {/* Results */}
         <div>
-          <h3 className="text-3xl font-bold mb-6">{t("result")}</h3>
+          <h3 className="text-3xl font-bold mb-6 text-black">{t("result")}</h3>
           <ul className="space-y-4">
             {caseStudy.results.map((res, idx) => (
               <li key={idx} className="flex gap-3">
