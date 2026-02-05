@@ -1,0 +1,573 @@
+
+ {
+      "1": {
+        "title": "Pi360 Institute Management System",
+        "duration": "16–24 months",
+        "investment": "$500K+",
+        "target": "A unified ERP platform for institutions and service-driven organizations to manage education, healthcare, operations, and services from a single ecosystem.",
+
+        "overview": "Pi360 is a unified digital ecosystem designed to manage complex, real-world organizations within a single platform. It brings education, healthcare, commerce, communication, and operational management together under one secure and scalable system.",
+        "overview1": "The platform enables institutions, hospitals, and service-based organizations to manage people, processes, and services seamlessly—eliminating fragmented tools and disconnected workflows.",
+
+        "challenges": [
+          "Managing multiple domains such as education, healthcare, and services within a single system",
+          "Ensuring strict role-based access control across diverse user groups",
+          "Maintaining data consistency and isolation across different organizational units",
+          "Coordinating academic, healthcare, and service schedules without conflicts",
+          "Scaling the system as organizations and services grow"
+        ],
+
+        "approach": [
+          "Designed a centralized identity and role-based access management system",
+          "Planned a modular architecture to support multiple domains independently",
+          "Structured synchronized academic, healthcare, and service workflows",
+          "Defined secure data access boundaries for sensitive information",
+          "Adopted real-time processing and background tasks for smooth performance",
+          "Focused on dashboard-driven insights for decision-makers"
+        ],
+
+        "solution": [
+          "Developed a unified platform integrating education, healthcare, commerce, and operations",
+          "Implemented secure identity-based access for students, teachers, doctors, staff, and administrators",
+          "Built end-to-end academic management including admissions, courses, exams, and results",
+          "Enabled hospital and healthcare workflows with controlled access to patient data",
+          "Integrated communication, commerce, transport, and service management into user profiles",
+          "Provided centralized dashboards with real-time operational insights"
+        ],
+
+        "technologies": [
+          "Frontend: Next.js, React.js, Tailwind CSS",
+          "Backend: Python, Django",
+          "Database & Performance: PostgreSQL, Redis",
+          "Architecture: Modular, domain-driven system design",
+          "Core Modules: Identity Management, Academic Management, Healthcare Operations, Communication System, Commerce & Services, Transport & Logistics"
+        ],
+
+        "results": [
+          "Unified multiple organizational sectors under a single connected platform",
+          "Eliminated data silos across education, healthcare, and service operations",
+          "Improved coordination between people, processes, and infrastructure",
+          "Enabled secure, role-based access across all organizational domains",
+          "Created a scalable foundation for future expansion without system complexity"
+        ],
+
+        "images": [
+          "/images/pi360.jpeg",
+          "/images/pi-360-two.jpeg",
+          "/images/case-3.jpg"
+        ]
+      },
+
+      "2": {
+        "title": "GadgetAdda Online E‑Commerce Store",
+        "duration": "3–5 months",
+        "investment": "$8K–$20K",
+        "target": "A local e‑commerce platform for selling organic groceries, oils, honey, spices, nuts & dates across Bangladesh",
+
+        "overview": "GadgetAdda.xyz is an online single‑vendor e‑commerce store offering organic groceries, oils, honey, spices, nut products, and related items to customers in Bangladesh. It provides a simple online shopping experience with product categories, add‑to‑cart functionality, and order placement options.",
+        "overview1": "The site allows customers to browse different product categories, add items to a cart, place orders, and use delivery options such as Cash‑on‑Delivery or advance bkash payment options.",
+
+        "challenges": [
+          "Organizing diverse product categories (organic foods, honey, nuts, spices) in a clear and user‑friendly way",
+          "Ensuring mobile and desktop users can browse and shop easily",
+          "Managing product pricing and discount display accurately",
+          "Providing trustworthy delivery options and building customer confidence",
+          "Keeping the ordering process simple and low‑friction"
+        ],
+
+        "approach": [
+          "Designing an intuitive navigation menu for product categories such as Ghee & Oil, Nuts & Dates, Honey, Spices, etc.",
+          "Using a responsive layout so users can shop comfortably on mobile and desktop",
+          "Implementing clear product price, discount labeling, and add‑to‑cart button",
+          "Integrating order tracking and Cash‑on‑Delivery options visible on the site",
+          "Highlighting delivery times, discount information, and trust signals on the homepage logo area"
+        ],
+
+        "solution": [
+          "Delivered a straightforward online grocery and organic product store where customers can browse categories, view product details and prices, and place orders",
+          "Created a mobile‑friendly and simple UI for customers to easily navigate and shop from various categories",
+          "Added clear pricing, discount, and product presentation styles to help buyers choose products confidently",
+          "Provided delivery details like times, Cash‑on‑Delivery, advanced bkash discounts, and clear contact information",
+          "Kept the shopping flow simple with cart functionality and direct order placement options"
+        ],
+
+        "technologies": [
+          "Frontend: HTML5, CSS3, JavaScript",
+          "UI & Styling: Responsive layout using modern CSS frameworks",
+          "Platform: Standard CMS or custom e‑commerce setup",
+          "Hosting: Shared or Cloud Hosting",
+          "Version Control: Git (for development)",
+          "Deployment: Hosted with integrated domain & SSL"
+        ],
+
+        "results": [
+          "Launched a functional online e‑commerce store serving organic groceries and products",
+          "Customers can easily browse product categories and place orders",
+          "Provided trust signals such as delivery information and payment options",
+          "Improved online presence and accessibility for local customers",
+          "Set up a base structure for adding more categories or features in the future"
+        ],
+
+        "images": [
+          "/images/gagetadda.jpeg",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      },
+
+      "3": {
+        "title": "Shobpi E‑commerce Online Store",
+        "duration": "4–6 months",
+        "investment": "$15K–$30K",
+        "target": "A clean, user-friendly online shopping platform for selling beauty and personal care products across Bangladesh",
+
+        "overview": "Shobpi.com is a single-vendor e-commerce website where a brand directly sells beauty and personal care products online to customers. The website provides easy navigation, product browsing, and a streamlined order placement experience.",
+        "overview1": "The platform is customer-focused, featuring product categories, detailed product pages, a cart system, and order placement functionality, all optimized for both mobile and desktop devices.",
+
+        "challenges": [
+          "Providing customers with a simple and fast product browsing experience",
+          "Ensuring a fully responsive design for mobile users",
+          "Presenting product information and pricing clearly",
+          "Creating a smooth and hassle-free order placement system",
+          "Building trust and credibility as a reliable online store"
+        ],
+
+        "approach": [
+          "Enhanced user experience with a clean and simple UI design",
+          "Organized product categories and structured product detail pages",
+          "Implemented mobile-first responsive design",
+          "Simplified cart and checkout flows for easy order placement",
+          "Optimized website performance and loading speed"
+        ],
+
+        "solution": [
+          "Developed a fully functional single-vendor e-commerce website where the brand manages all products",
+          "Provided easy product browsing and category-based navigation for customers",
+          "Created detailed product pages showing name, price, and essential information clearly",
+          "Built a smooth Add to Cart and Order Placement system for all users",
+          "Optimized the layout for both mobile and desktop users",
+          "Created a trustworthy online store image to increase customer confidence",
+          "Prepared the structure for future payment gateway integration and order tracking features"
+        ],
+
+        "technologies": [
+          "Frontend: HTML5, CSS3, JavaScript",
+          "UI & Styling: Responsive layout using modern CSS techniques",
+          "Framework: Next.js (frontend-focused)",
+          "Styling Utility: Tailwind CSS",
+          "Hosting:Cloud Hosting",
+          "Version Control: Git",
+          "Deployment: Web hosting with domain integration"
+        ],
+
+        "results": [
+          "Successfully launched a fully functional online store",
+          "Customers can browse products and place orders easily",
+          "Provided a smooth shopping experience for mobile users",
+          "Increased the brand's online presence and credibility",
+          "Created a strong foundation for future feature upgrades"
+        ],
+
+        "images": [
+          "/images/shobpi.jpeg",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      },
+
+      "4": {
+        "title": "Shoshikha (স্বশিক্ষা)",
+        "duration": "6 months (Cohort-based Program)",
+        "investment": "Contact for Details",
+        "target": "To bridge the gap between traditional learning and industry demands by providing authentic mentorship and real-world tech insights. We empower learners to transition from basic coding to professional excellence through hands-on industry practices.",
+
+        "overview": "Shoshikha is a self-learning focused education initiative built on the belief that true learning happens when a learner is internally motivated to grow.",
+        "overview1": "The institute is designed to guide learners from basic knowledge to professional excellence in the tech industry through structured resources, expert mentorship, and real-world project experience.",
+
+        "challenges": [
+          "Transitioning from following tutorials to building a system from scratch without copy-pasting",
+          "Structuring backend architecture correctly for scalability and maintainability",
+          "Implementing secure authentication and permission systems",
+          "Designing APIs that are robust, validated, and easy to maintain",
+          "Managing deployment workflows including Docker, Git, and cloud deployment for production"
+        ],
+
+        "approach": [
+          "Started by understanding the full backend workflow: client-server communication, request handling, and database interactions",
+          "Designed the database schema and backend architecture before coding",
+          "Followed a practice-driven approach: learned a concept, applied it immediately in small modules, then integrated into the main project",
+          "Implemented APIs step by step with proper validation, error handling, and authentication",
+          "Used Git and GitHub for version control, and gradually learned deployment pipelines to cloud platforms"
+        ],
+        "solution": [
+          "Developed a complete backend project using Django and Django REST Framework with PostgreSQL database",
+          "Implemented user authentication, permissions, and throttling for secure API access",
+          "Created 10+ small practice modules to reinforce each concept before integrating into the main project",
+          "Tested APIs using professional tools to ensure functionality and reliability",
+          "Deployed the backend system to a cloud environment using Docker containers and Git-based deployment pipelines",
+          "Maintained documentation and code reviews to simulate real-world professional workflows"
+        ],
+
+        "technologies": [
+          "Backend: Python, Django, Django REST Framework",
+          "Database: PostgreSQL",
+          "Security & Auth: Authentication, Permissions, Throttling",
+          "Testing: Postman & Automated API Testing",
+          "Deployment: Docker, Cloud Deployment (e.g., Heroku, AWS), Git & GitHub"
+        ],
+        "results": [
+          "Gained confidence in designing and deploying production-ready backend systems",
+          "Learned to write clean, maintainable, and scalable code",
+          "Understood real-world backend development workflows including version control, testing, and deployment",
+          "Prepared a portfolio-ready backend project for interviews and freelance opportunities",
+          "Acquired practical experience in API design, database modeling, and secure authentication implementation"
+        ],
+
+        "images": [
+          "/images/shoshikkha.jpeg",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      },
+
+     
+
+      
+      "5": {
+        "title": "POS & ERP Solution",
+        "duration": "16–24 months",
+        "investment": "$500K+",
+        "target": "Unified data across multiple educational institutions",
+
+        "overview": "Pi 360 is a multi-campus, data-driven educational ERP platform designed to bridge the gap between administration, teachers, and students.",
+        "overview1": "Provides a centralised control-tower dashboard for management, offers personalised dashboards for students and teachers, accessible via web and mobile applications.",
+
+        "challenges": [
+          "Maintaining real-time data synchronization across multiple campuses",
+          "Handling large-scale institutional data without performance degradation",
+          "Implementing secure role-based access for students, teachers, and administrators",
+          "Integrating legacy systems with modern cloud-based infrastructure",
+          "Ensuring uninterrupted service during peak academic and admission periods"
+        ],
+
+        "approach": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+
+        "solution": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+        "technologies": [
+          "Frontend: React.js, Next.js, Tailwind CSS",
+          "Data Visualisation: D3.js, ApexCharts",
+          "Backend: Node.js, Python (Django)",
+          "Cloud & Infrastructure: AWS, Azure",
+          "Database & Performance: PostgreSQL, Redis",
+          "Modules: Admissions Management, Attendance Tracking, Grading System, Finance Management, Internal Communication System"
+        ],
+
+        "results": [
+          "Maintained 99.99% system uptime across all campuses",
+          "Successfully migrated over 10TB of legacy institutional data with zero downtime",
+          "Enabled predictive analytics for revenue forecasting and student growth analysis",
+          "Achieved real-time, consistent data access across all campuses",
+          "Significantly improved system performance and user experience"
+        ],
+        "images": [
+          "/images/pos.jpeg",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      },
+       
+      "6": {
+        "title": "Real-time GPS Tracking System",
+        "duration": "16–24 months",
+        "investment": "$500K+",
+        "target": "Unified data across multiple educational institutions",
+
+        "overview": "Pi 360 is a multi-campus, data-driven educational ERP platform designed to bridge the gap between administration, teachers, and students.",
+        "overview1": "Provides a centralised control-tower dashboard for management, offers personalised dashboards for students and teachers, accessible via web and mobile applications.",
+
+        "challenges": [
+          "Maintaining real-time data synchronization across multiple campuses",
+          "Handling large-scale institutional data without performance degradation",
+          "Implementing secure role-based access for students, teachers, and administrators",
+          "Integrating legacy systems with modern cloud-based infrastructure",
+          "Ensuring uninterrupted service during peak academic and admission periods"
+        ],
+
+        "approach": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+
+        "solution": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+        "technologies": [
+          "Frontend: React.js, Next.js, Tailwind CSS",
+          "Data Visualisation: D3.js, ApexCharts",
+          "Backend: Node.js, Python (Django)",
+          "Cloud & Infrastructure: AWS, Azure",
+          "Database & Performance: PostgreSQL, Redis",
+          "Modules: Admissions Management, Attendance Tracking, Grading System, Finance Management, Internal Communication System"
+        ],
+
+        "results": [
+          "Maintained 99.99% system uptime across all campuses",
+          "Successfully migrated over 10TB of legacy institutional data with zero downtime",
+          "Enabled predictive analytics for revenue forecasting and student growth analysis",
+          "Achieved real-time, consistent data access across all campuses",
+          "Significantly improved system performance and user experience"
+        ],
+        "images": [
+          "/images/realtime gps traker.jpeg",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      },
+      "7": {
+        "title": "Import-Export Management System",
+        "duration": "8–12 months",
+        "investment": "Confidential / Project-based",
+        "target": "To digitize and streamline import–export operations, documentation, and tracking for small to mid-scale trading businesses.",
+
+        "overview": "This project focuses on building a centralized Import–Export Management System to manage shipments, documents, partners, and operational workflows digitally.",
+        "overview1": "The system is designed to reduce manual paperwork, improve data accuracy, and provide clear visibility into import–export operations through a structured web-based dashboard.",
+
+        "challenges": [
+          "Managing complex import–export documentation in a structured digital format",
+          "Tracking shipment status and trade records without relying on spreadsheets",
+          "Ensuring data consistency across multiple operational modules",
+          "Designing role-based access for admins, operators, and finance users",
+          "Building a system flexible enough to adapt to changing trade workflows"
+        ],
+
+        "approach": [
+          "Analyzed real-world import–export workflows before designing the system",
+          "Designed a modular backend architecture to separate shipments, documents, and partner management",
+          "Planned database schemas carefully to handle relational trade data",
+          "Implemented role-based authentication to control access and responsibilities",
+          "Focused on clean UI and clear data representation for daily operational use"
+        ],
+
+        "solution": [
+          "Developed a centralized web-based Import–Export Management System",
+          "Implemented modules for shipment tracking, document management, and partner records",
+          "Created secure role-based authentication for different user types",
+          "Ensured structured CRUD operations with proper validation and error handling",
+          "Integrated dashboards to provide operational visibility and reporting support"
+        ],
+
+        "technologies": [
+          "Frontend: React.js, Next.js, Tailwind CSS",
+          "Backend: Node.js, Python (Django)",
+          "Database: PostgreSQL",
+          "State & Data Handling: REST APIs",
+          "Security: Role-based Authentication & Authorization"
+        ],
+
+        "results": [
+          "Reduced dependency on manual paperwork and spreadsheet-based tracking",
+          "Improved accuracy and consistency of import–export records",
+          "Enabled faster access to shipment and document information",
+          "Provided a scalable foundation for future automation and reporting features",
+          "Delivered a portfolio-ready enterprise-style management system"
+        ],
+
+        "images": [
+          "/images/export import.jpg",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      },
+      "8": {
+        "title": "Smart Factory Automation",
+        "duration": "16–24 months",
+        "investment": "$500K+",
+        "target": "Unified data across multiple educational institutions",
+
+        "overview": "Pi 360 is a multi-campus, data-driven educational ERP platform designed to bridge the gap between administration, teachers, and students.",
+        "overview1": "Provides a centralised control-tower dashboard for management, offers personalised dashboards for students and teachers, accessible via web and mobile applications.",
+
+        "challenges": [
+          "Maintaining real-time data synchronization across multiple campuses",
+          "Handling large-scale institutional data without performance degradation",
+          "Implementing secure role-based access for students, teachers, and administrators",
+          "Integrating legacy systems with modern cloud-based infrastructure",
+          "Ensuring uninterrupted service during peak academic and admission periods"
+        ],
+
+        "approach": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+
+        "solution": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+        "technologies": [
+          "Frontend: React.js, Next.js, Tailwind CSS",
+          "Data Visualisation: D3.js, ApexCharts",
+          "Backend: Node.js, Python (Django)",
+          "Cloud & Infrastructure: AWS, Azure",
+          "Database & Performance: PostgreSQL, Redis",
+          "Modules: Admissions Management, Attendance Tracking, Grading System, Finance Management, Internal Communication System"
+        ],
+
+        "results": [
+          "Maintained 99.99% system uptime across all campuses",
+          "Successfully migrated over 10TB of legacy institutional data with zero downtime",
+          "Enabled predictive analytics for revenue forecasting and student growth analysis",
+          "Achieved real-time, consistent data access across all campuses",
+          "Significantly improved system performance and user experience"
+        ],
+        "images": [
+          "/images/menufactaring and production.jpg",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      },
+      "9": {
+        "title": "City Logistics Network",
+        "duration": "16–24 months",
+        "investment": "$500K+",
+        "target": "Unified data across multiple educational institutions",
+
+        "overview": "Pi 360 is a multi-campus, data-driven educational ERP platform designed to bridge the gap between administration, teachers, and students.",
+        "overview1": "Provides a centralised control-tower dashboard for management, offers personalised dashboards for students and teachers, accessible via web and mobile applications.",
+
+        "challenges": [
+          "Maintaining real-time data synchronization across multiple campuses",
+          "Handling large-scale institutional data without performance degradation",
+          "Implementing secure role-based access for students, teachers, and administrators",
+          "Integrating legacy systems with modern cloud-based infrastructure",
+          "Ensuring uninterrupted service during peak academic and admission periods"
+        ],
+
+        "approach": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+
+        "solution": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+        "technologies": [
+          "Frontend: React.js, Next.js, Tailwind CSS",
+          "Data Visualisation: D3.js, ApexCharts",
+          "Backend: Node.js, Python (Django)",
+          "Cloud & Infrastructure: AWS, Azure",
+          "Database & Performance: PostgreSQL, Redis",
+          "Modules: Admissions Management, Attendance Tracking, Grading System, Finance Management, Internal Communication System"
+        ],
+
+        "results": [
+          "Maintained 99.99% system uptime across all campuses",
+          "Successfully migrated over 10TB of legacy institutional data with zero downtime",
+          "Enabled predictive analytics for revenue forecasting and student growth analysis",
+          "Achieved real-time, consistent data access across all campuses",
+          "Significantly improved system performance and user experience"
+        ],
+        "images": [
+          "/images/transport log 2.png",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      },
+      "10": {
+        "title": "Tour & Travel Booking Platform",
+        "duration": "2 months",
+        "investment": "$100K+",
+        "target": "Unified data across multiple educational institutions",
+
+        "overview": "Pi 360 is a multi-campus, data-driven educational ERP platform designed to bridge the gap between administration, teachers, and students.",
+        "overview1": "Provides a centralised control-tower dashboard for management, offers personalised dashboards for students and teachers, accessible via web and mobile applications.",
+
+        "challenges": [
+          "Maintaining real-time data synchronization across multiple campuses",
+          "Handling large-scale institutional data without performance degradation",
+          "Implementing secure role-based access for students, teachers, and administrators",
+          "Integrating legacy systems with modern cloud-based infrastructure",
+          "Ensuring uninterrupted service during peak academic and admission periods"
+        ],
+
+        "approach": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+
+        "solution": [
+          "Designed a scalable, centralised multi-campus system architecture",
+          "Planned cloud-native infrastructure to handle high traffic and peak loads",
+          "Defined role-based authentication and authorization strategies",
+          "Performed legacy data auditing and structured migration planning",
+          "Adopted caching and asynchronous processing for performance-critical modules",
+          "Planned advanced analytics and reporting using data visualisation tools"
+        ],
+        "technologies": [
+          "Frontend: React.js, Next.js, Tailwind CSS",
+          "Data Visualisation: D3.js, ApexCharts",
+          "Backend: Node.js, Python (Django)",
+          "Cloud & Infrastructure: AWS, Azure",
+          "Database & Performance: PostgreSQL, Redis",
+          "Modules: Admissions Management, Attendance Tracking, Grading System, Finance Management, Internal Communication System"
+        ],
+
+        "results": [
+          "Maintained 99.99% system uptime across all campuses",
+          "Successfully migrated over 10TB of legacy institutional data with zero downtime",
+          "Enabled predictive analytics for revenue forecasting and student growth analysis",
+          "Achieved real-time, consistent data access across all campuses",
+          "Significantly improved system performance and user experience"
+        ],
+        "images": [
+          "/images/tourisam.jpg",
+          "/images/Case-2.jpg",
+          "/images/Case-3.jpg"
+        ]
+      }
+      
+    }

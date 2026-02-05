@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Manufacturing & Production"
+  },
+  {
+    "id": 2,
+    "title": "Export & Import"
+  },
+  {
+    "id": 3,
+    "title": "Information Technology"
+  },
+  {
+    "id": 4,
+    "title": "Transport & Logistics"
+  },
+  {
+    "id": 5,
+    "title": "Travel & Tourism"
+  },
+  {
+    "id": 6,
+    "title": "Construction & Infrastructure"
+  }
+]

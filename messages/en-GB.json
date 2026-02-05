@@ -1,0 +1,1380 @@
+{
+    "Navbar": {
+        "home": "Home",
+        "service": "Service",
+        "project": "Project",
+        "caseStudy": "Case Study",
+        "career": "Career",
+        "company": "Company",
+        "aboutUs": "About Us",
+        "team": "Team",
+        "contactUs": "Contact us",
+        "bookNow": "Book Now"
+    },
+    "Hero": {
+        "slide1_title": "Transforming Ideas Into Powerful Digital Solutions",
+        "slide1_desc": "MY SOFTAKE PVT. PLC. delivers modern, intelligent, and scalable software solutions designed to accelerate your business growth.",
+        "slide2_title": "Complete IT Solutions Under One Roof",
+        "slide2_desc": "We provide all the tools and solutions your business needs to succeed online. From digital marketing to web development, we help you grow, engage, and thrive in the digital world.",
+        "slide3_title": "Experience the Difference with MY SOFTAKE",
+        "slide3_desc": "Experience the difference with MY SOFTAKE, where innovation meets reliability. We deliver smart, scalable software solutions that empower your business, streamline operations, and drive growth in the digital world.",
+        "slide4_title": "Delivering Results That Speak Volumes",
+        "slide4_desc": "At MY SOFTAKE, we deliver results that truly make an impact. Our innovative software solutions drive measurable growth, enhance efficiency, and create lasting value for your business—letting our work speak louder than words.",
+        "slide5_title": "Step Into the Future of Digital Success",
+        "slide5_desc": "Step into the future of digital success with MY SOFTAKE, where innovation meets strategy. We provide cutting-edge software solutions that accelerate growth, optimize operations, and empower your business to thrive in a rapidly evolving digital landscape.",
+        "slide6_title": "Worldwide Results You Can Count On",
+        "slide6_desc": "At MY SOFTAKE, we deliver reliable solutions that make a real impact around the globe. With our innovative software and proven expertise, businesses everywhere achieve measurable growth, streamlined operations, and lasting success.",
+        "getStarted": "Get Started"
+    },
+    "AboutCompany": {
+        "title": "ABOUT COMPANY",
+        "description1": "MY SOFTAKE PLC. is a forward-thinking technology and business solutions company committed to delivering innovative, reliable, and efficient services across multiple industries. With a focus on quality, customer satisfaction, and sustainable growth, the company provides modern digital solutions, profes-sional support, and value-driven services that help businesses operate smarter and faster. MY SOFTAKE PLC. continues to expand its capabilities, ensuring excellence through technology, expertise, and strategic vision.",
+        "description2": "We continue to move forward with confidence, shaping a future where global reach is guided by shared values and lasting trust.",
+        "experience_title": "Experience",
+        "experience_desc": "Our great team of more than 20 software experts.",
+        "quickSupport_title": "Quick Support",
+        "quickSupport_desc": "We’ll help you test bold new ideas while sharing your.",
+        "introVideo": "Intro video"
+    },
+    "OurService": {
+        "title": "Our Services",
+        "description": "We provide diversified services to support your business growth with reliability and excellence.",
+        "service1_title": "Information & technology",
+        "service1_desc": "Information technology services provide secure, scaleable solutions that drive efficiency, reliability, and business growth through smart use of technology.",
+        "service2_title": "Export & Import",
+        "service2_desc": "Export and import services enable seamless global trade by ensuring efficient, compliant, and reliable cross-border movement of goods.",
+        "service3_title": "Manufacturing & Production",
+        "service3_desc": "Manufacturing & Production involve transforming raw materials into high-quality finished goods through efficient processes, technology, and skilled operations.",
+        "service4_title": "Transport & logistic",
+        "service4_desc": "Transport & Logistics ensure the efficient movement, storage, and delivery of goods through coordinated transportation and supply chain management systems.",
+        "service5_title": "Travel & Tourism",
+        "service5_desc": "Travel & Tourism involves facilitating journeys and experiences, connecting people to destinations while managing services, hospitality, and cultural exploration efficiently.",
+        "service6_title": "Construction & Infrastructure",
+        "service6_desc": "Construction & Infrastructure delivers sustainable, high-quality structures that drive urban growth and development."
+    },
+    "OurLatestProject": {
+        "title": "Our Latest Project",
+        "description": "Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius.",
+        "all": "All"
+    },
+    "OurRecentCaseStudies": {
+        "title": "Our recent Case studies",
+        "loading": "Loading...",
+        "viewDetail": "View detail",
+        "items": {
+            "1": {
+                "images": ["/images/Case-1.jpg", "/images/Case-2.jpg", "/images/Case-3.jpg"]
+            },
+            "2": {
+                "images": ["/images/Case-2.jpg", "/images/Case-2.jpg", "/images/Case-3.jpg"]
+            },
+            "3": {
+                "images": ["/images/Case-3.jpg", "/images/Case-2.jpg", "/images/Case-3.jpg"]
+            },
+            "4": {
+                "images": ["/images/Case-4.jpg", "/images/Case-2.jpg", "/images/Case-3.jpg"]
+            },
+            "5": {
+                "images": ["/images/Case 5.jpg", "/images/Case-2.jpg", "/images/Case-3.jpg"]
+            },
+            "6": {
+                "images": ["/images/Case-6.jpg", "/images/Case-2.jpg", "/images/Case-3.jpg"]
+            }
+        }
+    },
+    "CounterSection": {
+        "projectComplete": "Project Complete",
+        "happyClients": "Happy Clients",
+        "yearsExperiance": "Years of Experiance",
+        "servicesProvide": "Service We Provide",
+        "countries": "Countries"
+    },
+    "AreaWeServe": {
+        "title": "AREA WE SERVE",
+        "bangladesh": "Bangladesh",
+        "china": "China",
+        "japan": "Japan",
+        "uae": "UAE"
+    },
+    "OurPartner": {
+        "title": "We are authorized by"
+    },
+    "Footer": {
+        "quickLinks": "Quick Links",
+        "corporateOffice": "Corporate Office, Bangladesh",
+        "manufacturingOffice": "Manufacturing Office, China",
+        "rightsReserved": "All rights reserved.",
+        "termsOfService": "Terms of Service",
+        "privacyPolicy": "Privacy Policy"
+    },
+    "ServiceData": {
+        "title": "Our Core Industries",
+        "description": "We deliver quality solutions across manufacturing, IT, logistics, travel, and construction.",
+        "exploreMore": "Explore More",
+        "items": {
+            "1": {
+                "title": "Information Technology",
+                "headline": "MY SOFTAKE PVT. PLC.  Innovative Information Technology Solutions",
+                "desc": "MY SOFTAKE PVT. PLC. is a trusted IT solutions provider delivering advanced software, systems, and technology services globally. We specialize in innovative development, seamless integration, and reliable IT support, helping businesses transform digitally and achieve operational excellence.",
+                "overview_one": "MY SOFTAKE PVT. PLC. is a leading Information Technology company providing innovative digital solutions worldwide.We specialize in software development, IT consulting, system integration, and technology management. Our mission is to deliver high-quality IT services that drive efficiency, innovation, and business growth.We work with modern technologies and methodologies to provide scalable and secure IT solutions. Our team of skilled developers, engineers, and consultants ensures seamless project delivery. We partner with clients to understand their unique business needs and provide tailored IT solutions. From concept and design to deployment and maintenance, we manage the complete IT lifecycle. We focus on automation, digital transformation, and cutting-edge technology to enhance business processes.",
+                "overview_two": "Our IT services cater to diverse industries, from startups to large enterprises.We prioritize security, compliance, and quality at every stage of development. Innovation, professionalism, and client satisfaction are at the core of our operations. We provide solutions that help organizations reduce costs and improve operational efficiency.Our collaborative approach ensures transparency and strong client relationships. MY SOFTAKE PVT. PLC. is your reliable partner for sustainable IT solutions and digital growth. We aim to empower businesses with technology that delivers measurable results.",
+                "why_choose_us": "At MY SOFTAKE PVT. PLC., we combine technical expertise with innovative IT solutions to meet client needs.We deliver reliable, secure, and scaleable software and IT services tailored for each business. Our solutions help clients optimize operations, improve productivity, and reduce costs. We follow global best practices and standards to ensure high-quality IT delivery.Technology that drives your business forward.Our team supports end-to-end solutions, from consultation and design to deployment and support. We emphasize timely delivery and proactive project management.",
+                "choce_one": "Our services are flexible, scalable, and customized for both small and large organizations.We prioritize client satisfaction through transparency, communication, and support.Innovation, reliability, and growth—our promise to you. We stay updated with the latest technologies to deliver future-ready solutions. Our expertise includes software development, cloud solutions, IT infrastructure, and cybersecurity.We believe in building long-term partnerships through quality, trust, and results.Your technology partner for sustainable growth. Choosing MY SOFTAKE PVT. PLC. means choosing a reliable, innovative IT partner.",
+                "image": "/images/service_four.png",
+                "process": [
+                    "Requirement Analysis – Understanding client goals, system requirements, and business needs.Knowing your needs ensures a solution that truly works.",
+                    "Solution Design & Planning – Creating scalable, secure, and efficient IT system designs. Designing solutions today for the challenges of tomorrow.",
+                    "Deployment & Integration – Seamless implementation and integration into client environments. Smooth deployment, zero disruption.",
+                    "Maintenance & Support – Continuous IT support and system optimization. Support that keeps your business running flawlessly.",
+                    "Innovation & Upgrades – Regular updates to keep systems modern and competitive. Innovation is the key to staying ahead."
+                ],
+                "benefits": [
+                    "Customized IT Solutions – Tailored software and systems to meet unique business requirements. Your vision, our technology.",
+                    "Enhanced Productivity – Solutions that streamline operations and improve efficiency. Efficiency is built into every line of code.",
+                    "Reliable Support – End-to-end IT support to ensure smooth business operations. Support that never sleeps.",
+                    "Scalable Systems – Flexible technology that grows with your business. Future-ready solutions for a dynamic world.",
+                    "Cost-Effective Technology – Optimize operations and reduce IT expenses. Smart technology saves time and money.",
+                    "Security & Compliance – Ensuring safe, secure, and compliant IT systems. Protection and compliance you can trust.",
+                    "Innovation & Growth – Continuous upgrades and cutting-edge solutions to stay competitive. Technology that transforms your business."
+                ]
+            },
+            "2": {
+                "title": "Export & Import",
+                "headline": "MY SOFTAKE PVT. PLC. – Global Export & Import Solutions",
+                "desc": "MY SOFTAKE PVT. PLC. is a trusted Export & Import company with a manufacturing base in China. We provide high-quality products, seamless logistics, and end-to-end solutions for clients worldwide, ensuring timely delivery, compliance, and global business growth.",
+                "overview_one": "MY SOFTAKE PVT. PLC. is a leading Export & Import company with a robust manufacturing base in China. We specialize in sourcing, producing, and delivering high-quality products to clients worldwide. Our company is committed to maintaining international standards at every step of the supply chain. From procurement to delivery, we ensure efficiency, reliability, and precision. We collaborate with trusted suppliers and manufacturers to provide premium products at competitive rates. Our team manages every stage of the export-import process, ensuring smooth operations across borders. We prioritize timely delivery and seamless logistics to serve global clients without delays. Innovation, professionalism, and sustainable practices are at the core of our operations.",
+                "overview_two": "With MY SOFTAKE PVT. PLC., businesses gain a dependable partner for all their import-export needs. We handle customs, compliance, and international shipping with expertise. Our export-import solutions cater to diverse industries and customized client requirements. We build long-term relationships with clients through trust and transparency. Every project reflects our dedication to quality and excellence. Customer satisfaction is the foundation of our global business strategy. MY SOFTAKE PVT. PLC. stands as a reliable bridge between manufacturers in China and markets worldwide.",
+                "why_choose_us": "At MY SOFTAKE PVT. PLC., we combine global sourcing expertise with professional export-import services. We maintain high-quality standards, ensuring products meet international regulations. Our experience ensures cost-effective solutions for both importing and exporting goods. We manage all customs, documentation, and logistics, making international trade hassle-free. Global trade made simple, reliable, and efficient. Our flexible operations allow us to handle both bulk shipments and customized orders. We prioritize timely delivery to keep your business operations smooth.",
+                "choce_one": "We offer transparency at every stage, ensuring clients are informed and confident. Our team is trained to navigate international trade regulations seamlessly. We adopt innovative approaches to optimize shipping, reduce costs, and improve efficiency. Excellence in service, reliability in delivery. We value long-term partnerships over short-term gains. Customer satisfaction, trust, and quality are central to everything we do. Your business growth is our global mission. Choosing MY SOFTAKE PVT. PLC. means choosing a dependable partner for international trade success.",
+                "image": "/images/service_five.png",
+                "process": [
+                    "Requirement analysis to understand product needs and market objectives.",
+                    "Sourcing and procurement from trusted manufacturers and suppliers in China.",
+                    "Quality inspection to ensure products meet international standards before shipment.",
+                    "Packaging and documentation with accurate export-import paperwork.",
+                    "Customs clearance and compliance handling for uninterrupted trade.",
+                    "Logistics and international shipping to ensure timely delivery.",
+                    "After-sales support to assist clients beyond shipment completion."
+                ],
+                "benefits": [
+                    "Reliable global sourcing from trusted Chinese manufacturers.",
+                    "Cost-effective procurement and shipping solutions that save time and money.",
+                    "Timely delivery through seamless and efficient logistics management.",
+                    "Custom export-import solutions tailored to unique client requirements.",
+                    "Expert compliance and documentation handling for hassle-free trade.",
+                    "End-to-end support from sourcing to final delivery.",
+                    "Global reach and trade expertise connecting businesses worldwide."
+                ]
+            },
+            "3": {
+                "title": "Manufacturing & Production",
+                "headline": "China-Based Manufacturing, Delivered Worldwide",
+                "desc": "We specialize in delivering high-quality products through efficient and modern production systems. Our focus is on precision manufacturing, strict quality control, and timely delivery. With global sourcing capabilities, we serve clients across international markets. We combine innovation, reliability, and cost-effective solutions in every project. Customer satisfaction and product excellence are at the core of our mission. From concept to completion, we ensure seamless manufacturing services worldwide.",
+                "overview_one": "MY SOFTAKE PVT. PLC. is a dynamic manufacturing and production company dedicated to delivering world-class products. We operate with a fully established manufacturing factory based in China. Our company focuses on efficient production, modern technology, and skilled workmanship. We are committed to maintaining international quality standards in every stage of manufacturing. Our production facilities are equipped with advanced machinery and strict quality control systems. We serve global clients with reliable and cost-effective manufacturing solutions. Our experienced team ensures smooth coordination from raw material sourcing to final production. We emphasize innovation and continuous improvement in all operational processes. Timely delivery and consistent product quality remain our top priorities. We build strong relationships with partners and suppliers to ensure supply chain stability. Our manufacturing capabilities cover diverse product categories and custom requirements. We believe in sustainable and responsible production practices. Customer satisfaction is at the heart of our business philosophy. We strive to exceed expectations through dedication and professionalism. MY SOFTAKE PVT. PLC. stands as a trusted name in global manufacturing services.",
+                "overview_two": "Our vision is to become a leading international manufacturing service provider recognized for excellence. We aim to support businesses worldwide by offering dependable production solutions. Our mission is to deliver superior quality products at competitive prices. We focus on building long-term partnerships with clients across various industries. Through strategic planning and modern management, we ensure operational efficiency. We adopt the latest production techniques to enhance accuracy and consistency. Our quality assurance team monitors every step to meet global compliance standards. We value transparency, integrity, and commitment in all business dealings. Our flexible manufacturing system allows us to handle both large-scale and custom orders. We continuously invest in technology and workforce development. We prioritize communication to ensure clear understanding of client requirements. Our logistics and export network ensures smooth worldwide product delivery. We are dedicated to maintaining safety and sustainability in our production environment. Every project we undertake reflects our passion for quality and reliability. MY SOFTAKE PVT. PLC. is your dependable partner for manufacturing success.",
+                "why_choose_us": "At MY SOFTAKE PVT. PLC., we combine advanced manufacturing facilities in China with skilled expertise to deliver superior products. We maintain strict quality control at every stage of production to ensure international standards are met. Our cost-effective solutions help clients achieve maximum value without compromising quality. We offer flexible production capabilities to handle both large-scale and customized orders. Timely delivery, transparent communication, and reliable service make us a trusted global partner. With a commitment to innovation, sustainability, and customer satisfaction, we continuously improve our processes to exceed client expectations. Choosing us means choosing quality, reliability, and long-term manufacturing success.",
+                "choce_one": "We prioritize innovation, efficiency, and customer satisfaction. Our dedicated team ensures seamless production, timely delivery, and flexible solutions to meet unique client requirements. Choosing MY SOFTAKE PVT. PLC. means gaining a dependable partner for global manufacturing success.",
+                "image": "/images/service_six.png",
+                "process": [
+                    "Requirement Analysis – We begin by understanding the client’s specifications, design needs, and production goals. Understanding your needs is the first step to delivering perfection.",
+                    "Design & Planning – Our expert team develops detailed production plans and design prototypes to ensure accuracy. Planning today prevents problems tomorrow.",
+                    "Sourcing & Material Selection – We procure high-quality raw materials from trusted suppliers. The strength of a product lies in the quality of its materials.",
+                    "Manufacturing & Production – Using advanced machinery and skilled workforce, we bring designs to life with precision. Excellence in production is built, not born.",
+                    "Quality Control & Inspection – Every product undergoes strict quality checks to ensure compliance with global standards. Quality is never an accident; it is always the result of intelligent effort.",
+                    "Packaging & Logistics – Finished products are carefully packaged and prepared for safe delivery worldwide. Safe delivery is part of our promise of excellence.",
+                    "After-Sales Support – We provide continuous support to ensure client satisfaction and long-term partnership. Our relationship doesn’t end at delivery—it begins."
+                ],
+                "benefits": [
+                    "High-Quality Products – We deliver products that meet international standards, ensuring reliability and durability. Quality means doing it right when no one is looking.",
+                    "Cost-Effective Solutions – Our efficient production methods help reduce costs without compromising quality. Efficiency is doing better what is already being done.",
+                    "Timely Delivery – We understand the importance of deadlines and ensure products reach on time, every time. Punctuality is the soul of business.",
+                    "Customized Solutions – We adapt our manufacturing process to meet unique client requirements. Your vision, our expertise—perfectly combined.",
+                    "Global Reach – Our logistics and export capabilities allow us to serve clients worldwide seamlessly. Distance is no barrier to quality service.",
+                    "Dedicated Support – Our team provides continuous assistance, from pre-production to after-sales. We don’t just deliver products; we deliver peace of mind.",
+                    "Innovation & Sustainability – We embrace modern techniques and responsible practices for long-term benefits. Innovation distinguishes between a leader and a follower."
+                ]
+            },
+            "4": {
+                "title": "Transport & Logistics",
+                "headline": "MY SOFTAKE PVT. PLC. – Reliable Transport & Logistics Solutions",
+                "desc": "MY SOFTAKE PVT. PLC. provides efficient, secure, and end-to-end transport and logistics services globally. We specialize in freight management, supply chain solutions, and on-time delivery, helping businesses move goods safely, efficiently, and reliably across borders.",
+                "overview_one": "MY SOFTAKE PVT. PLC. is a leading Transport & Logistics company committed to providing seamless global shipping solutions. We specialize in freight forwarding, warehousing, inventory management, and end-to-end logistics services. Our mission is to ensure that goods are transported safely, efficiently, and on time, anywhere in the world. We operate with advanced logistics technology and a skilled workforce to manage complex supply chains. Our network of trusted partners and carriers allows us to deliver reliable transportation solutions across multiple industries. From local shipments to international freight, we handle every step of the logistics process.",
+                "overview_two": "We focus on timely delivery, secure handling, and cost-effective solutions for every client. Innovation, professionalism, and customer satisfaction are at the core of our operations. Our services include road, air, and sea transportation, along with customs clearance and documentation support. We ensure compliance with international regulations and industry standards. Our logistics team continuously monitors shipments to provide real-time updates and ensure transparency. We manage storage, packaging, and inventory with precision to reduce risks and delays. Sustainability and efficiency are integrated into every transport solution we provide. MY SOFTAKE PVT. PLC. is a dependable partner for businesses looking for efficient, reliable, and global logistics support. We help clients optimize their supply chains, reduce costs, and improve operational efficiency.",
+                "why_choose_us": "At MY SOFTAKE PVT. PLC., we combine advanced logistics technology with professional transport solutions. We provide reliable, secure, and efficient transport services for domestic and international shipments. Our experience ensures timely delivery and smooth movement of goods across all regions. We manage all customs, documentation, and compliance requirements for hassle-free logistics. Our operations are flexible to handle bulk shipments, specialized cargo, and customized transport solutions. We prioritize transparency, communication, and client satisfaction at every stage. Our team navigates complex supply chains to deliver seamless, cost-effective solutions. We adopt the latest logistics technology for tracking, monitoring, and optimizing shipments. We build long-term relationships with clients through trust, quality, and professional service. Choosing MY SOFTAKE PVT. PLC. means choosing a reliable, innovative, and global logistics partner.",
+                "choce_one": "We prioritize efficiency, safety, and customer satisfaction in every transport and logistics solution. Our team ensures seamless coordination, timely delivery, and tailored services for unique client needs. Choosing MY SOFTAKE PVT. PLC. means gaining a dependable global logistics partner.",
+                "image": "/images/service_three.png",
+                "process": [
+                    "Requirement Analysis – Understanding client shipment needs, volume, and destination. Knowing your cargo ensures precise logistics solutions.",
+                    "Planning & Route Optimization – Designing the most efficient, cost-effective transportation plans. Planning today saves time and resources tomorrow.",
+                    "Cargo Handling & Packaging – Safe handling and secure packaging for all types of goods. Protection and care for every shipment.",
+                    "Freight & Transportation – Managing road, sea, or air transport with reliability and speed. Delivering your goods, wherever they need to be.",
+                    "Customs Clearance & Documentation – Handling all regulatory and paperwork requirements. Smooth compliance for uninterrupted logistics.",
+                    "Real-Time Tracking – Monitoring shipments to provide clients with timely updates. Transparency and control in every delivery.",
+                    "Delivery & After-Sales Support – Ensuring safe arrival and ongoing support for client satisfaction. Our service continues beyond delivery."
+                ],
+                "benefits": [
+                    "Reliable Delivery – Safe, secure, and timely transport of goods. On-time delivery builds trust and reliability.",
+                    "Cost-Effective Solutions – Optimized routes and efficient operations reduce costs. Efficiency turns logistics into value.",
+                    "End-to-End Support – Complete assistance from pickup to delivery and beyond. We handle logistics so you can focus on business.",
+                    "Custom Solutions – Tailored transport and supply chain solutions for unique client needs. Your logistics, your way.",
+                    "Global Reach – Access to international freight networks for worldwide delivery. Distance is never a barrier to our service.",
+                    "Advanced Tracking – Real-time updates and monitoring of shipments. Know where your goods are, anytime.",
+                    "Compliance & Security – Ensuring all shipments meet safety and regulatory standards. Safe, secure, and compliant transport every time."
+                ]
+            },
+            "5": {
+                "title": "Travel & Tourism",
+                "headline": "MY SOFTAKE PVT. PLC. – Exceptional Travel & Tourism Services",
+                "desc": "MY SOFTAKE PVT. PLC. offers customized travel and tourism solutions worldwide. We specialize in holiday planning, tour packages, travel management, and memorable experiences, ensuring clients explore destinations with ease, comfort, and unforgettable experiences.",
+                "overview_one": "MY SOFTAKE PVT. PLC. is a leading travel and tourism company dedicated to creating exceptional travel experiences for clients worldwide. We offer a wide range of services including holiday packages, corporate travel, adventure trips, and luxury tours. Our mission is to provide seamless, enjoyable, and memorable journeys tailored to individual preferences. We collaborate with hotels, airlines, and local operators to ensure smooth travel arrangements. Our team of travel experts helps plan every detail, from transportation to accommodations and activities. We focus on customer satisfaction, safety, and convenience at every step of the journey. We offer both domestic and international travel services, catering to leisure and business travelers. Our services are designed to meet the needs of individuals, families, and corporate clients. We emphasize creating unique experiences by combining local culture, adventure, and comfort.",
+                "overview_two": "Innovation, reliability, and professionalism are at the heart of our operations. We provide personalized itineraries to ensure travelers get the most out of their trips. Our team is always available to assist with queries, bookings, and travel emergencies. Sustainable tourism and responsible travel practices are integrated into all our services. MY SOFTAKE PVT. PLC. is a trusted partner for travelers seeking unforgettable journeys. We strive to make every trip seamless, enjoyable, and full of lasting memories.",
+                "why_choose_us": "At MY SOFTAKE PVT. PLC., we provide travel and tourism solutions that combine convenience, comfort, and memorable experiences. We offer customized travel plans tailored to individual preferences and budgets. Our experienced team ensures smooth bookings, accommodations, and transportation arrangements. We focus on safety, timely service, and quality throughout every journey. Travel made simple, memorable, and enjoyable. Our global network of partners guarantees the best deals and reliable services. We provide personalized support before, during, and after every trip. Your journey, our expertise. We prioritize client satisfaction and strive to exceed expectations on every trip. Our services cater to both leisure travelers and corporate clients, offering flexible packages. Creating unforgettable memories, one trip at a time. We use modern tools and technology to streamline booking, itineraries, and travel management. Choosing MY SOFTAKE PVT. PLC. means choosing a trusted partner for all your travel needs.",
+                "choce_one": "We focus on creating stress-free, enjoyable, and personalized travel experiences. Our team ensures seamless planning, expert guidance, and memorable journeys tailored to each client’s preferences. Choosing MY SOFTAKE PVT. PLC. means gaining a dependable partner for your travel adventures.",
+                "image": "/images/service_two.png",
+                "process": [
+                    "Requirement Analysis – Understanding client travel goals, preferences, and budget. Knowing your dream helps us plan it perfectly.",
+                    "Customized Itinerary Planning – Designing a detailed travel plan including destinations, accommodations, and activities. Planning today for unforgettable experiences tomorrow.",
+                    "Booking & Reservations – Arranging flights, hotels, transportation, and tours efficiently. Seamless arrangements for a hassle-free journey.",
+                    "Travel Assistance & Support – Providing guidance, assistance, and tips during the trip. Support that ensures peace of mind throughout your journey.",
+                    "Experiential Activities – Organizing cultural, adventure, and leisure activities tailored to client interests. Making every moment memorable.",
+                    "Monitoring & Updates – Keeping clients informed of schedules, travel changes, or emergencies. Real-time assistance for smooth travel.",
+                    "Feedback & Follow-Up – Collecting client feedback and improving future services. Your experience helps us serve you better."
+                ],
+                "benefits": [
+                    "Personalized Travel Plans – Trips designed around client preferences and interests. Your dream journey, tailored to you.",
+                    "Hassle-Free Bookings – Flights, hotels, and activities organized efficiently. We handle the details so you can enjoy the journey.",
+                    "Expert Guidance – Professional advice and support throughout the trip. Travel smarter with expert guidance.",
+                    "Cost-Effective Packages – Competitive pricing without compromising quality. Best value for unforgettable experiences.",
+                    "Global Network – Access to reliable partners worldwide for smooth travel. Wherever you go, we are there for you.",
+                    "Safety & Security – Ensuring safe and secure travel arrangements. Your safety is our top priority.",
+                    "Memorable Experiences – Unique experiences that create lasting memories. Travel beyond destinations, create memories for a lifetime."
+                ]
+            },
+            "6": {
+                "title": "Construction & Infrastructure",
+                "headline": "MY SOFTAKE PVT. PLC. – Expert Construction & Infrastructure Solutions",
+                "desc": "MY SOFTAKE PVT. PLC. delivers innovative, reliable, and high-quality construction and infrastructure services. We specialize in building residential, commercial, and industrial projects, providing end-to-end solutions from planning and design to execution and maintenance.",
+                "overview_one": "MY SOFTAKE PVT. PLC. is a leading construction and infrastructure company dedicated to delivering high-quality, sustainable projects. We specialize in residential, commercial, industrial, and public infrastructure development. Our mission is to provide innovative solutions, ensuring projects are completed on time, within budget, and to the highest standards. We combine modern construction techniques, skilled workforce, and advanced project management tools. Our team of architects, engineers, and project managers ensures every project is executed with precision. We focus on quality, safety, and sustainability in all construction and infrastructure projects. From planning and design to construction and maintenance, we provide complete end-to-end solutions. We partner with clients, suppliers, and contractors to ensure smooth project delivery.",
+                "overview_two": "Our services include civil engineering, structural development, road construction, and urban planning. We adhere to local and international standards, ensuring regulatory compliance and safety. Innovation, professionalism, and client satisfaction are at the core of our operations. We continuously invest in technology and workforce training to deliver modern, durable infrastructure. Our projects are designed for efficiency, aesthetics, and long-term durability. MY SOFTAKE PVT. PLC. is your trusted partner for sustainable and innovative construction and infrastructure solutions. We help clients realize their vision while enhancing communities and the built environment.",
+                "why_choose_us": "At MY SOFTAKE PVT. PLC., we provide reliable, innovative, and sustainable construction and infrastructure solutions. We focus on high-quality construction with attention to detail and precision. Our team uses modern technology, project management systems, and skilled professionals for efficient execution. We ensure timely project completion and cost-effective solutions. Building your vision, shaping your future. We prioritize safety, compliance, and environmental responsibility on all sites. Our approach is collaborative, ensuring transparency and trust throughout the project lifecycle. Innovation, quality, and reliability in every structure. We cater to diverse sectors, from residential housing to industrial complexes and urban infrastructure. Our dedication to client satisfaction and long-term partnerships sets us apart. Excellence in construction, commitment to communities. Choosing MY SOFTAKE PVT. PLC. means partnering with a reliable, professional, and forward-thinking construction company.",
+                "choce_one": "We focus on delivering safe, innovative, and sustainable construction projects. Our team ensures precision, quality, and client satisfaction from planning to maintenance. Choosing MY SOFTAKE PVT. PLC. means partnering with a trusted construction and infrastructure expert.",
+                "image": "/images/hero_Banner_one.png",
+                "process": [
+                    "Requirement Analysis – Understanding client needs, project goals, and site specifics. Your vision guides our blueprint.",
+                    "Planning & Design – Developing detailed architectural and engineering plans. Planning today ensures excellence tomorrow.",
+                    "Material Sourcing & Procurement – Selecting high-quality materials from trusted suppliers. Quality materials build quality projects.",
+                    "Construction & Execution – Skilled workforce executes the project with precision and safety. Every brick laid with care, every structure built to last.",
+                    "Quality Assurance & Monitoring – Continuous inspection to meet standards and specifications. Quality is never optional—it is guaranteed.",
+                    "Project Completion & Handover – Final inspection and delivery of the completed project. From blueprint to reality, delivered seamlessly.",
+                    "Maintenance & Support – Ongoing support and maintenance for long-term performance. Our commitment continues beyond construction."
+                ],
+                "benefits": [
+                    "High-Quality Construction – Durable, safe, and sustainable structures. Quality you can trust for generations.",
+                    "Cost-Effective Solutions – Optimized planning and execution to reduce costs. Smart construction, better value.",
+                    "Timely Project Completion – Efficient project management ensures deadlines are met. On time, every time.",
+                    "Customized Designs – Tailored solutions to meet specific client requirements. Your vision, our expertise.",
+                    "Safety & Compliance – Strict adherence to safety standards and regulations. Safety and compliance at the core of every project.",
+                    "End-to-End Support – From planning and execution to maintenance and upgrades. Support that lasts beyond construction.",
+                    "Innovation & Sustainability – Incorporating modern techniques and eco-friendly practices. Sustainable structures for a better tomorrow."
+                ]
+            }
+        }
+    },
+    "ProjectData": {
+        "pageTitle": "Our Latest Projects",
+        "pageDescription": "Discover our innovative projects across multiple industries, showcasing our expertise and commitment to excellence.",
+        "allCategory": "All",
+        "viewDetails": "View Details",
+        "projectNotFound": "Project Not Found!",
+        "backToHome": "Back to home",
+        "loading": "Loading...",
+        "startSimilarProject": "Start Similar Project",
+        "labels": {
+            "client": "Client",
+            "category": "Category",
+            "date": "Date",
+            "status": "Status",
+            "details": "Details",
+            "notSpecified": "Not specified",
+            "projectOverview": "Project Overview",
+            "itFieldUsage": "Project Result & Benefits",
+            "resultsBenefits": "Project Benefits",
+            "keyChallenges": "Key Challenges",
+            "technologyStack": "Technology Stack",
+            "projectOutcome": "Project Outcome"
+        },
+        "categories": {
+            "1": "Information Technology",
+            "2": "Travel & Tourism",
+            "3": "Transport & Logistics"
+        },
+        "items": {
+            "1": {
+                "title": "Pi 360 Institute Management",
+                "category": "Information Technology",
+                "description": "Multi-campus, data-driven educational ERP designed to bridge the gap between administration, teachers, and students.",
+                "longDescription": "Pi 360 is a multi-campus, data-driven educational ERP designed to bridge the gap between administration, teachers, and students. It provides a centralised 'control tower' view for management whilst offering personalised dashboards for individual academic tracking.",
+                "image": "/images/information.jpg",
+                "client": "MY SOFTAKE PVT LTD",
+                "date": "January 2026",
+                "status": "Processing",
+                "tags": ["ERP", "Education", "Dashboard"],
+                "challenges": ["Cross-Campus Synchronization: Maintaining real-time data consistency across different physical campus locations.", "UI/UX Complexity: Condensing massive amounts of data (Financials, Attendance, Results) into a clean, mobile-responsive dashboard without overwhelming the user.", "Performance Optimization: Ensuring the 'Explore Institutions' search remains fast even when filtering through thousands of data points."],
+                "techStack": ["React.js", "Next.js", "Tailwind CSS", "D3.js", "ApexCharts", "Node.js", "Python (Django)", "AWS", "Azure", "PostgreSQL", "Redis"],
+                "results": "99.99% Uptime maintained. Successfully migrated 10TB of legacy institutional data with zero downtime. Predictive analytics help management forecast revenue and student growth trends.",
+                "benefits": ["Transparency: Real-time Fees Management and Overdue tracking reduces financial leakages and improves collection rates.", "Efficiency: Automates Notice Board and Class Schedules, reducing administrative manual labour by 40%.", "Academic Improvement: Visual Marks in Each Subject bars allow parents and teachers to identify weak spots instantly through predictive analytics."]
+            },
+            "2": {
+                "title": "GadgetAdda E-commerce Platform",
+                "category": "Information Technology",
+                "description": "Comprehensive digital transformation of a retail electronics business with robust, high-traffic e-commerce engine.",
+                "longDescription": "A comprehensive digital transformation of a retail electronics business. This project involved building a robust, high-traffic e-commerce engine (Ecom2) with a sophisticated admin panel to manage multi-vendor inventory, real-time order tracking, and automated customer notifications. The platform is designed to handle thousands of SKUs and high-volume seasonal traffic with ease.",
+                "image": "/images/information.jpg",
+                "client": "GadgetAdda Retailers",
+                "date": "January 2024",
+                "status": "Completed",
+                "tags": [
+                    "E-commerce",
+                    "Single Vendor",
+                    "High Performance"
+                ],
+                "challenges": [
+                    "Dynamic Stock Syncing: Coordinating real-time inventory updates across the online store and physical warehouse to prevent overselling.",
+                    "Security & Fraud Prevention: Implementing secure checkout protocols and SSL encryption to protect sensitive customer payment data.",
+                    "Scalability: Optimizing server-side rendering to maintain fast load times during high-traffic flash sales."
+                ],
+                "techStack": [
+                    "Next.js",
+                    "React",
+                    "Node.js",
+                    "Express",
+                    "Laravel",
+                    "MySQL",
+                    "MongoDB",
+                    "AWS",
+                    "DigitalOcean"
+                ],
+                "results": "Achieved 40% growth in monthly sales within the first quarter post-launch and maintained 99.9% system uptime during peak holiday sales."
+            },
+            "3": {
+                "title": "Shobpi Multi-Vendor Marketplace",
+                "category": "Information Technology",
+                "description": "Sophisticated 'Multi-Vendor' marketplace designed to host thousands of independent sellers like Amazon or Daraz.",
+                "longDescription": "Shobpi is a sophisticated 'Multi-Vendor' marketplace (similar to Amazon or Daraz) designed to host thousands of independent sellers. The platform provides each vendor with a private dashboard to manage their own products, orders, and earnings, while the 'Super Admin' maintains global control over commissions, site-wide promotions, and vendor payouts.",
+                "image": "/images/information.jpg",
+                "client": "Shobpi Marketplace Group",
+                "date": "January 2025",
+                "status": "Completed",
+                "tags": [
+                    "Marketplace",
+                    "Multi-Vendor",
+                    "B2B2C"
+                ],
+                "challenges": [
+                    "Vendor Quality Control: Implementing automated verification systems to ensure only legitimate sellers are onboarded.",
+                    "Complex Logistics: Coordinating shipping when a single customer order contains items from three different vendors in different locations.",
+                    "Wallet & Payout Security: Ensuring precise financial auditing for thousands of sub-accounts and automated tax calculations."
+                ],
+                "techStack": [
+                    "PHP (Laravel Multi-tenant)",
+                    "Python (Django)",
+                    "WebSockets (Socket.io)",
+                    "AWS S3",
+                    "Cloudfront CDN",
+                    "Microservices"
+                ],
+                "results": "Enables Rapid Catalog Expansion without physical inventory holdings. Scalable Revenue Model based on commissions and vendor subscription fees."
+            },
+            "4": {
+                "title": "ShoShikha Educational Initiative",
+                "category": "Information Technology",
+                "description": "Comprehensive educational program designed to bridge gap between academic learning and industry-standard backend development.",
+                "longDescription": "A comprehensive educational initiative designed to bridge the gap between academic learning and industry-standard backend development. The project features a structured, 4-month curriculum that guides students through web fundamentals, Django core architecture, and REST API development. It integrates a hybrid learning model with live sessions, recorded resources, and intensive one-to-one mentorship.",
+                "image": "/images/information.jpg",
+                "client": "ShoShikha Educational Institute",
+                "date": "Ongoing",
+                "status": "Ongoing",
+                "tags": [
+                    "EdTech",
+                    "Backend",
+                    "Mentorship"
+                ],
+                "challenges": [
+                    "Curriculum Pacing: Designing a flow that moves students from zero experience to advanced concepts like JWT authentication and Redis workflows in 4 months.",
+                    "One-to-One Support: Maintaining high-quality mentorship and query resolution across both on-site and digital Discord communities.",
+                    "Real-World Integration: Ensuring students can successfully integrate AI tools like GitHub Copilot and Cursor into their manual coding workflows."
+                ],
+                "techStack": [
+                    "Django (MVT)",
+                    "Django REST Framework (DRF)",
+                    "Git",
+                    "GitHub",
+                    "Docker",
+                    "Postman",
+                    "Insomnia",
+                    "Redis",
+                    "Render.com"
+                ],
+                "results": "Students complete a full-scale To-Do REST API project deployed with industry-standard security. Established a permanent learning-based Discord community for ongoing technical support."
+            },
+            "5": {
+                "title": "Import-Export Management System",
+                "category": "Information Technology",
+                "description": "Comprehensive digital framework designed to manage the complexities of international trade and cross-border operations.",
+                "longDescription": "A comprehensive digital framework designed to manage the complexities of international trade. This project focuses on the end-to-end 'Import-Export' lifecycle—from sourcing global suppliers and managing customs documentation to tracking real-time shipments across borders. The system acts as a bridge between manufacturers, freight forwarders, and customs authorities to ensure the smooth flow of goods.",
+                "image": "/images/export import.jpg",
+                "client": "Manufacturer",
+                "date": "In Progress",
+                "status": "Processing",
+                "tags": [
+                    "Trade",
+                    "Logistics",
+                    "Compliance"
+                ],
+                "challenges": [
+                    "Regulatory Compliance: Keeping pace with frequently changing trade policies, sanctions, and tax laws across different countries.",
+                    "Logistics Complexity: Coordinating 'Last-Mile Delivery' and multimodal transfers (Sea to Rail to Road) without losing data continuity.",
+                    "Financial Risk: Managing currency volatility and ensuring secure international payments through automated banking integrations."
+                ],
+                "techStack": [
+                    "Java (Spring Boot)",
+                    "Python (Django)",
+                    "EDI",
+                    "XML",
+                    "GPS/IoT sensors",
+                    "Big Data",
+                    "Blockchain",
+                    "PostgreSQL",
+                    "Oracle"
+                ],
+                "results": "Achieved 40% faster customs clearance through pre-validated digital documentation. Reduced document-related errors and penalties by over 90%."
+            },
+            "6": {
+                "title": "Tour & Travel Booking Platform",
+                "category": "Travel & Tourism",
+                "description": "Modern, end-to-end digital solution designed to simplify the complexities of the travel industry with real-time booking.",
+                "longDescription": "A modern, end-to-end digital solution designed to simplify the complexities of the travel industry. This project involves a high-performance booking engine that connects travelers with real-time inventory for flights, hotels, and local tours. The platform serves as a centralized hub for tour operators to create dynamic holiday packages, manage group departures, and provide automated travel assistance.",
+                "image": "/images/tourisam.jpg",
+                "client": "Travel & Tourism Operators",
+                "date": "In Progress",
+                "status": "Processing",
+                "tags": [
+                    "Booking",
+                    "Travel",
+                    "Real-time Inventory"
+                ],
+                "challenges": [
+                    "Real-time Inventory Sync: Preventing overbooking by maintaining millisecond-level synchronization with global airline and hotel databases.",
+                    "Payment Complexity: Integrating multi-currency payment gateways with automated conversion and secure 'Buy Now Pay Later' (BNPL) options.",
+                    "Peak Traffic Scalability: Managing extreme traffic surges during holiday seasons or 'flash sale' events without system latency."
+                ],
+                "techStack": [
+                    "React.js",
+                    "Next.js",
+                    "Node.js",
+                    "Python (FastAPI/Django)",
+                    "GDS APIs (Amadeus, Sabre)",
+                    "Google Maps API",
+                    "AWS",
+                    "Google Cloud",
+                    "CDN"
+                ],
+                "results": "45% increase in booking speed by removing manual inquiry processes. Achieved 99.95% Uptime during peak vacation booking windows."
+            },
+            "7": {
+                "title": "POS & ERP Solution",
+                "category": "Information Technology",
+                "description": "High-performance, SaaS-ready Point of Sale (POS) and Enterprise Resource Planning solution transforming retail operations.",
+                "longDescription": "A high-performance, SaaS-ready Point of Sale (POS) and Enterprise Resource Planning (ERP) solution. This project transforms traditional retail counters into digital hubs by integrating sales, inventory, accounting, and HRM into a single cloud-based dashboard. Designed for scalability, it supports multi-warehouse management and real-time synchronization between web panels and mobile POS terminals.",
+                "image": "/images/information.jpg",
+                "client": "Retail & Enterprise Businesses",
+                "date": "In Progress",
+                "status": "Processing",
+                "tags": [
+                    "POS",
+                    "ERP",
+                    "Multi-Store"
+                ],
+                "challenges": [
+                    "Offline Synchronization: Ensuring that sales can be processed even during internet outages and synced back to the cloud once a connection is restored.",
+                    "Complex Tax/Discount Logic: Building a flexible engine that can handle flat discounts, percentage taxes, and coupon codes simultaneously at checkout.",
+                    "Concurrent Transaction Handling: Optimizing the database to handle hundreds of simultaneous 'Read/Write' operations across multiple store outlets."
+                ],
+                "techStack": [
+                    "Laravel (PHP)",
+                    ".NET 8",
+                    "Vue.js",
+                    "React.js",
+                    "Flutter",
+                    "MySQL",
+                    "ESC/POS",
+                    "Barcode SDKs",
+                    "AWS",
+                    "DigitalOcean"
+                ],
+                "results": "Maintained 99.9% availability for critical retail operations. Achieved zero discrepancies in daily cash register closing reports."
+            },
+            "8": {
+                "title": "Real-time GPS Tracking System",
+                "category": "Transport & Logistics",
+                "description": "High-performance IoT-based tracking solution for real-time monitoring of vehicles, assets, and personnel across the globe.",
+                "longDescription": "A high-performance IoT-based tracking solution designed for real-time monitoring of vehicles, assets, and personnel. The system integrates hardware GPS trackers with a robust cloud-based dashboard to provide live location updates, route history, and engine diagnostics. It is engineered to help businesses reduce operational costs, prevent theft, and optimize route efficiency through data-driven insights.",
+                "image": "/images/transport.jpg",
+                "client": "Logistics Companies / Private Security Firms",
+                "date": "May 2024",
+                "status": "Completed",
+                "tags": [
+                    "IoT",
+                    "GPS Tracking",
+                    "Fleet Management"
+                ],
+                "challenges": [
+                    "Connectivity Dead Zones: Implementing 'Data Buffering' where the device stores coordinates in internal memory when offline and syncs them automatically.",
+                    "Battery Optimization: Balancing the frequency of data pings (e.g., every 10 seconds) with the power consumption of the GPS hardware.",
+                    "Geofencing Logic: Creating high-speed spatial queries to detect instantly when a vehicle enters or exits a predefined virtual boundary."
+                ],
+                "techStack": [
+                    "Node.js",
+                    "Python (FastAPI)",
+                    "React.js",
+                    "Leaflet",
+                    "Mapbox",
+                    "TimescaleDB",
+                    "MongoDB",
+                    "MQTT",
+                    "TCP/UDP",
+                    "AWS",
+                    "Azure"
+                ],
+                "results": "Achieved location accuracy within 3-5 meters under clear sky conditions. Sub-second data transmission from vehicle to mobile app. 100% reliability in push notifications."
+            },
+            "9": {
+                "title": "Smart Factory Automation",
+                "category": "Information Technology",
+                "description": "Automated production line to increase efficiency and reduce downtime.",
+                "longDescription": "Our Smart Factory Automation project revolutionizes traditional manufacturing by integrating industry 4.0 standards. We implemented IoT sensors and automated arms that communicate in real-time to prevent errors before they happen. This system allows managers to monitor every aspect of production from a central dashboard.",
+                "image": "/images/menufactaring and production.jpg",
+                "client": "IndustriX Corp",
+                "date": "March 2024",
+                "status": "Completed",
+                "tags": [
+                    "Automation",
+                    "AI",
+                    "Robotics"
+                ],
+                "challenges": [
+                    "Integrating legacy machinery with modern IoT sensors.",
+                    "Ensuring zero-latency communication between robotic arms.",
+                    "Training staff to operate the new automated dashboard."
+                ],
+                "techStack": [
+                    "Python",
+                    "AWS IoT",
+                    "TensorFlow",
+                    "Node.js"
+                ],
+                "results": "Increased production speed by 45% and reduced human error by 90%."
+            },
+            "10": {
+                "title": "City Logistics Network",
+                "category": "Transport & Logistics",
+                "description": "Optimized logistics network connecting warehouses and stores efficiently.",
+                "longDescription": "Smart route planning and fleet management software designed to reduce delivery times and fuel consumption within urban areas using real-time traffic data.",
+                "image": "/images/transport log 2.png",
+                "client": "Urban Delivery Inc.",
+                "date": "March 2024",
+                "status": "Completed",
+                "tags": [
+                    "Logistics",
+                    "Green-Tech",
+                    "Route-Optimization"
+                ],
+                "challenges": [
+                    "Real-time GPS tracking and traffic prediction.",
+                    "Balancing load distribution across the delivery fleet.",
+                    "Reducing carbon footprint of last-mile delivery."
+                ],
+                "techStack": [
+                    "Go",
+                    "Google Maps API",
+                    "RabbitMQ",
+                    "React Native"
+                ],
+                "results": "Reduced fuel costs by 20% and delivery time by 15 mins per order."
+            },
+            "11": {
+                "title": "Tourist Booking Portal",
+                "category": "Travel & Tourism",
+                "description": "An online portal for booking travel and tourism packages easily.",
+                "longDescription": "A feature-rich booking engine offering personalized travel itineraries, hotel bookings, and guided tour reservations with an integrated payment gateway.",
+                "image": "/images/tourisam.jpg",
+                "client": "Wonderlust Travels",
+                "date": "April 2024",
+                "status": "Completed",
+                "tags": [
+                    "Booking",
+                    "Travel-Tech",
+                    "E-commerce"
+                ],
+                "challenges": [
+                    "Handling real-time inventory for tour operators.",
+                    "Secure payment processing in multiple currencies.",
+                    "Mobile-first responsive design for travelers."
+                ],
+                "techStack": [
+                    "Next.js",
+                    "Tailwind CSS",
+                    "Sanity CMS",
+                    "PayPal API"
+                ],
+                "results": "Increased online bookings by 40% in the first two months."
+            },
+            "12": {
+                "title": "Company IT Infrastructure",
+                "category": "Information Technology",
+                "description": "Setting up secure IT infrastructure for company-wide operations.",
+                "longDescription": "A complete overhaul of corporate networking, server management, and cybersecurity protocols. We moved the entire operation to a hybrid cloud model for maximum security and scalability.",
+                "image": "/images/information 2.png",
+                "client": "Nexus Enterprises",
+                "date": "December 2023",
+                "status": "Completed",
+                "tags": [
+                    "Infrastructure",
+                    "Cybersecurity",
+                    "Networking"
+                ],
+                "challenges": [
+                    "Migrating 10TB of data without downtime.",
+                    "Setting up hardware firewalls across 3 branch offices.",
+                    "Implementing Zero-Trust security architecture."
+                ],
+                "techStack": [
+                    "Cisco Networking",
+                    "Azure Cloud",
+                    "Docker",
+                    "Kubernetes"
+                ],
+                "results": "Achieved 99.99% uptime and zero security breaches."
+            }
+        }
+    },
+    "PrivacyPage": {
+        "title": "Privacy Policy",
+        "introduction1": "At MY SOFTAKE PLC, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our services.",
+        "introduction2": "Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access our services.",
+        "section1Title": "1. Information We Collect",
+        "section1_1Title": "1.1 Personal Information",
+        "section1_1Desc": "We collect personal information that you voluntarily provide to us when you:",
+        "section1_1List": ["Register for an account", "Use our services", "Contact us for support", "Make a payment", "Subscribe to our newsletter"],
+        "section1_1Desc2": "This information may include:",
+        "section1_1List2": ["Name and contact details (email, phone, address)", "Business information (company name, tax ID)", "Payment information (billing address, payment method)", "Service preferences and requirements"],
+        "section1_2Title": "1.2 Automatically Collected Information",
+        "section1_2Desc": "When you use our services, we automatically collect:",
+        "section1_2List": ["IP address and device information", "Browser type and version", "Pages you visit and time spent", "Referring website addresses", "Service usage patterns"],
+        "section1_3Title": "1.3 Service-Specific Information",
+        "section1_3Desc": "Depending on the service category, we may collect additional information:",
+        "section1_3List": ["Manufacturing: Product specifications, quality requirements", "Export/Import: Shipping details, customs information", "Transport: Delivery addresses, package details", "Travel: Passport information, travel preferences"],
+        "section2Title": "2. How We Use Your Information",
+        "section2Desc": "We use the information we collect to:",
+        "section2List": ["Provide and maintain our services", "Process your transactions and payments", "Communicate with you about services and updates", "Improve our services and user experience", "Comply with legal obligations", "Protect against fraudulent activities", "Send marketing communications (with your consent)"],
+        "section3Title": "3. Information Sharing and Disclosure",
+        "section3Desc": "We do not sell your personal information. We may share your information with:",
+        "section3_1Title": "3.1 Service Providers",
+        "section3_1List": ["Payment processors", "Shipping and logistics partners", "Cloud hosting providers", "Customer support services"],
+        "section3_2Title": "3.2 Legal Requirements",
+        "section3_2Desc": "We may disclose your information if required by law:",
+        "section3_2List": ["To comply with legal obligations", "To protect our rights and property", "To prevent or investigate wrongdoing", "To ensure safety of our users and the public"],
+        "section3_3Title": "3.3 Business Transfers",
+        "section3_3Desc": "In the event of a merger, acquisition, or sale of assets, your information may be transferred as part of the transaction.",
+        "section4Title": "4. Data Security",
+        "section4Desc": "We implement appropriate technical and organisational measures to protect your personal information:",
+        "section4List": ["SSL/TLS encryption for data transmission", "Secure servers and firewalls", "Regular security assessments", "Access controls and authentication", "Regular data backups"],
+        "section4Disclaimer": "However, no method of transmission over the Internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee absolute security.",
+        "section5Title": "5. Data Retention",
+        "section5Desc": "We retain your personal information only for as long as necessary:",
+        "section5List": ["Account information: Until you request deletion or 2 years after account inactivity", "Transaction records: 7 years for tax and legal compliance", "Service records: Duration of service plus 3 years", "Marketing data: Until you unsubscribe or request removal"],
+        "section6Title": "6. Your Rights",
+        "section6Desc": "Depending on your location, you may have the following rights:",
+        "section6List": ["Access: Request access to your personal information", "Correction: Request correction of inaccurate information", "Deletion: Request deletion of your personal information", "Restriction: Request restriction of processing", "Portability: Request transfer of your data to another service", "Objection: Object to processing of your data", "Withdraw Consent: Withdraw consent at any time"],
+        "section6Contact": "To exercise these rights, please contact us using the information provided below.",
+        "section7Title": "7. Cookies and Tracking Technologies",
+        "section7Desc": "We use cookies and similar tracking technologies to:",
+        "section7List": ["Remember your preferences", "Analyse website traffic", "Improve user experience", "Provide personalised content"],
+        "section7Note": "You can control cookies through your browser settings. However, disabling cookies may affect your ability to use certain features of our services.",
+        "section8Title": "8. Third-Party Links",
+        "section8Desc": "Our services may contain links to third-party websites. We are not responsible for the privacy practices or content of these websites. We encourage you to review the privacy policies of any third-party sites you visit.",
+        "section9Title": "9. Children's Privacy",
+        "section9Desc": "Our services are not intended for individuals under the age of 18. We do not knowingly collect personal information from children. If you believe we have collected information from a child, please contact us immediately.",
+        "section10Title": "10. International Data Transfers",
+        "section10Desc": "Your information may be transferred to and processed in countries other than your own. These countries may have different data protection laws. By using our services, you consent to this transfer.",
+        "section10Safeguards": "We ensure appropriate safeguards are in place for international data transfers in compliance with applicable laws.",
+        "section11Title": "11. Changes to This Policy",
+        "section11Desc": "We may update this Privacy Policy from time to time. We will notify you of any changes by:",
+        "section11List": ["Posting the new Privacy Policy on this page", "Sending an email notification", "Updating the Effective Date at the top"],
+        "section11Note": "You are advised to review this Privacy Policy periodically for any changes. Changes are effective when posted."
+    },
+    "CaseStudy": {
+        "title": "Company Overview",
+        "description": "MY SOFTAKE PLC. is a forward-thinking company delivering innovative and reliable solutions across multiple industries, continually striving for excellence through expertise and strategic vision.",
+        "viewCaseStudy": "View Case Study",
+        "loading": "Loading...",
+        "notFound": "Not Found",
+        "caseStudyDetails": "Case Study Details",
+        "bannerDescription": "Explore our comprehensive case studies showcasing innovative solutions and measurable results across industries.",
+        "totalDuration": "Total Duration",
+        "estimatedInvestment": "Estimated Investment",
+        "projectTarget": "Project Target",
+        "overview": "Overview",
+        "challenges": "Challenges",
+        "approach": "Approach",
+        "result": "Result",
+        "items": {
+            "1": {
+                "title": "Assetra End-to-End Asset Optimisation",
+                "duration": "16-24 months",
+                "investment": "£1.4M – £2.5M",
+                "target": "Reduce TCO by up to 35%",
+                "overview": "Assetra partnered with a large asset-intensive organisation facing rising operational costs and fragmented asset management practices. Our team assessed their entire asset portfolio to identify inefficiencies and develop a comprehensive optimisation strategy.",
+                "challenges": "Limited visibility across lifecycle, reactive maintenance, and scattered asset data leading to high operational risk and increased costs.",
+                "approach": "Implemented end-to-end strategy covering asset assessment, predictive maintenance, and long-term renewal planning with advanced analytics.",
+                "results": [
+                    "40% reduction in Total Cost of Ownership",
+                    "Significant decrease in unplanned downtime",
+                    "Improved asset reliability and utilisation",
+                    "Clear lifecycle roadmap for future investments"
+                ],
+                "images": [
+                    "/images/Case-1.jpg",
+                    "/images/Case-2.jpg",
+                    "/images/Case-3.jpg"
+                ]
+            },
+            "2": {
+                "title": "Smart Factory Automation Upgrade",
+                "duration": "12-18 months",
+                "investment": "£2.0M – £3.2M",
+                "target": "Increase production efficiency by 25%",
+                "overview": "Collaborated with a manufacturing giant to modernise legacy systems using IoT and AI-driven automation for enhanced productivity.",
+                "challenges": "Manual processes, frequent hardware failures, and lack of real-time production monitoring affecting overall efficiency.",
+                "approach": "Deployment of smart sensors and a centralised control system to automate workflow and monitoring across all production units.",
+                "results": [
+                    "30% increase in production throughput",
+                    "20% energy cost reduction",
+                    "Real-time data visibility across all units"
+                ],
+                "images": [
+                    "/images/Case-2.jpg",
+                    "/images/Case-2.jpg",
+                    "/images/Case-3.jpg"
+                ]
+            },
+            "3": {
+                "title": "Supply Chain Digital Transformation",
+                "duration": "10-14 months",
+                "investment": "£950K – £1.6M",
+                "target": "Reduce logistics costs by 20%",
+                "overview": "Redesigning the supply chain network for a global retail brand to enhance delivery speed and reduce operational overhead.",
+                "challenges": "Inaccurate inventory forecasting and inefficient route planning causing delivery delays and customer dissatisfaction.",
+                "approach": "Integrated an AI forecasting tool and optimised logistics routes using machine learning algorithms for better accuracy.",
+                "results": [
+                    "15% reduction in warehouse overhead",
+                    "99% on-time delivery rate",
+                    "Better inventory turnover ratio"
+                ],
+                "images": [
+                    "/images/Case-3.jpg",
+                    "/images/Case-2.jpg",
+                    "/images/Case-3.jpg"
+                ]
+            },
+            "4": {
+                "title": "Renewable Energy Grid Integration",
+                "duration": "24-30 months",
+                "investment": "£4.0M – £6.0M",
+                "target": "Transition to 50% renewable power sources",
+                "overview": "Assisting a regional power utility in integrating solar and wind energy into their existing grid infrastructure.",
+                "challenges": "Grid instability and high cost of integrating non-continuous energy sources with traditional power systems.",
+                "approach": "Developed a smart grid management system with advanced battery storage solutions for reliable energy distribution.",
+                "results": [
+                    "Successful 55% renewable energy adoption",
+                    "Lower carbon footprint by 40k tonnes/year",
+                    "Enhanced grid stability and storage capacity"
+                ],
+                "images": [
+                    "/images/Case-4.jpg",
+                    "/images/Case-2.jpg",
+                    "/images/Case-3.jpg"
+                ]
+            },
+            "5": {
+                "title": "Healthcare Data Interoperability Project",
+                "duration": "8-12 months",
+                "investment": "£700K – £1.2M",
+                "target": "Unified patient records across 15 clinics",
+                "overview": "Creating a seamless data sharing platform for a network of healthcare providers to improve patient care coordination.",
+                "challenges": "Siloed patient data and privacy concerns preventing efficient care coordination across multiple facilities.",
+                "approach": "Built a secure, GDPR-compliant cloud database with API access for all clinics ensuring data security and accessibility.",
+                "results": [
+                    "Zero data breaches during first year",
+                    "25% faster patient processing time",
+                    "Improved clinical decision support"
+                ],
+                "images": [
+                    "/images/Case 5.jpg",
+                    "/images/Case-2.jpg",
+                    "/images/Case-3.jpg"
+                ]
+            },
+            "6": {
+                "title": "Smart City Infrastructure Development",
+                "duration": "36-48 months",
+                "investment": "£8M – £12M",
+                "target": "Enhance urban mobility and public safety",
+                "overview": "Partnering with municipal authorities to implement smart lighting and traffic management solutions for urban areas.",
+                "challenges": "Congested traffic flow and high crime rates in under-lit urban areas affecting citizen safety and mobility.",
+                "approach": "Installed smart LED streetlights and AI-powered traffic signal controllers for optimised urban management.",
+                "results": [
+                    "20% reduction in traffic congestion",
+                    "15% drop in nighttime crime rates",
+                    "35% savings in municipal energy bills"
+                ],
+                "images": [
+                    "/images/Case-6.jpg",
+                    "/images/Case-2.jpg",
+                    "/images/Case-3.jpg"
+                ]
+            }
+        }
+    },
+    "GetInTouch": {
+        "title": "Driving business growth through smart, reliable technology.",
+        "peragraph": "Schedule a meeting to explore tailored solutions for your unique business needs.",
+        "btntext": "Get Started"
+    },
+    "FAQSection": {
+        "tag": "FAQ",
+        "title": "Frequently Asked Questions",
+        "subtitle": "Can’t find what you’re looking for? We’re here to help.",
+        "q1": {
+            "question": "How can I add a new institution to compare?",
+            "answer": "You can add institutions using our comparison tool or contact us with the relevant details."
+        },
+        "q2": {
+            "question": "How often is the information updated?",
+            "answer": "We update our database on a quarterly basis and continuously monitor for any changes."
+        },
+        "q3": {
+            "question": "Is this service free of charge?",
+            "answer": "Yes, our comparison tool is completely free for students."
+        },
+        "q4": {
+            "question": "Can institutions claim their profile?",
+            "answer": "Yes, institutions can claim and manage their profiles to ensure information accuracy."
+        }
+    },
+    "CareerPage": {
+        "hero": {
+            "title": "Build Your Career with My Softake",
+            "subtitle": "Join our team of innovators and help shape the future through technology."
+        },
+        "whyJoin": {
+            "title": "Why Join My Softake?",
+            "item1Title": "Growth-Oriented Culture",
+            "item1Desc": "We believe in learning, innovation, and continuous growth.",
+            "item2Title": "Flexible Work",
+            "item2Desc": "Remote-friendly environment with flexible working hours.",
+            "item3Title": "Impactful Projects",
+            "item3Desc": "Work on real-world projects that create meaningful impact."
+        },
+        "openPositionsTitle": "Join Our Team",
+        "openPositionsSubtitle": "Grow Your Career",
+        "applyButton": "Apply Now",
+        "hiringProcess": {
+            "title": "Our Hiring Process",
+            "step1": "Apply Online",
+            "step2": "Initial Screening",
+            "step3": "Technical Interview",
+            "step4": "Final Selection"
+        },
+        "cta": {
+            "title": "Ready to Join Our Team?",
+            "subtitle": "Send your CV and start your journey with My Softake.",
+            "button": "careers@mysoftake.com"
+        },
+        "loading": "Loading Job Details...",
+        "notFound": "Job Not Found!",
+        "careerApplicationForm": "Career Application Form",
+        "formDescription": "Please fill in all the necessary information before submitting for the position you are interested in",
+        "location": "Location",
+        "jobType": "Job Type",
+        "educationalRequirements": "Educational Requirements",
+        "experience": "Experience",
+        "jobResponsibilities": "Job Responsibilities",
+        "additionalRequirements": "Additional Requirements",
+        "link": "Link",
+        "applicationForm": "Application Form",
+        "formLabels": {
+            "name": "Name",
+            "gender": "Gender",
+            "selectGender": "Select Gender",
+            "male": "Male",
+            "female": "Female",
+            "other": "Other",
+            "dateOfBirth": "Date of Birth",
+            "phone": "Phone",
+            "email": "Email",
+            "nationality": "Nationality",
+            "address": "Address",
+            "coverLetter": "Cover Letter",
+            "coverLetterPlaceholder": "Tell us why you're a good fit...",
+            "attachCV": "Attach CV (PDF only)",
+            "submitApplication": "Submit Application"
+        },
+        "items": {
+            "1": {
+                "jobTitle": "Cloud DevOps Engineer",
+                "jobType": "Full Time",
+                "location": "Dhaka, Bangladesh",
+                "jobLink": "https://www.linkedin.com/company/my-softake/jobs/",
+                "description": "BJIT is hiring a Cloud DevOps Engineer to manage cloud infrastructure, CI/CD pipelines, automation, and deployment using modern DevOps tools and cloud platforms.",
+                "educationalRequirements": "Bachelor of Science (BSc) in CSE",
+                "experience": "1 to 3 year(s) hands on experience with Public Cloud platforms (Azure/AWS/GCP)",
+                "jobResponsibilities": [
+                    "Work as a team member of a DevOps team or work independently.",
+                    "Design and implement DevSecOps solutions based on business requirements using modern cloud-native technologies.",
+                    "Support team lead to design complete solution of Cloud & DevOps services.",
+                    "Deploy and manage containerised applications using Docker and Kubernetes (AKS/EKS/GKE) with Helm charts.",
+                    "Implement monitoring and observability solutions using Prometheus/Grafana or Datadog."
+                ],
+                "additionalRequirements": [
+                    "Strong hands-on experience with Terraform.",
+                    "Experience with security best practices including secrets management and network policies.",
+                    "Working knowledge of RDBMS (PostgreSQL/MySQL) and NoSQL databases.",
+                    "Basic programming skills in Python or Go for automation."
+                ]
+            },
+            "2": {
+                "jobTitle": "Senior Full Stack Developer",
+                "jobType": "Remote",
+                "location": "Global",
+                "jobLink": "https://www.linkedin.com/company/my-softake/jobs/",
+                "description": "We are looking for a Senior Full Stack Developer proficient in Next.js and Node.js to build scalable web applications.",
+                "educationalRequirements": "Bachelor's degree in CSE, IT or related field.",
+                "experience": "4+ years of professional software development experience.",
+                "jobResponsibilities": [
+                    "Lead the development of complex web applications using React and Next.js.",
+                    "Architect and maintain robust server-side logic using Node.js and Express.",
+                    "Collaborate with the UI/UX team to ensure high-quality design implementation.",
+                    "Perform code reviews and mentor junior developers."
+                ],
+                "additionalRequirements": [
+                    "Expertise in TypeScript and modern JavaScript (ES6+).",
+                    "Deep understanding of state management like Redux or Zustand.",
+                    "Hands-on experience with MongoDB or PostgreSQL.",
+                    "Familiarity with AWS services and CI/CD workflows."
+                ]
+            },
+            "3": {
+                "jobTitle": "UI/UX Designer",
+                "jobType": "Full Time",
+                "location": "Dhaka, Bangladesh",
+                "jobLink": "https://www.linkedin.com/company/my-softake/jobs/",
+                "description": "Join our design team to create intuitive digital products and maintain consistent brand identities across platforms.",
+                "educationalRequirements": "Graduate in Graphic Design, Fine Arts, or related discipline.",
+                "experience": "2+ years of experience in product design.",
+                "jobResponsibilities": [
+                    "Create high-fidelity mockups, wireframes, and interactive prototypes.",
+                    "Conduct user research and usability testing to iterate on designs.",
+                    "Maintain and evolve our internal design system.",
+                    "Collaborate with developers to ensure pixel-perfect implementation."
+                ],
+                "additionalRequirements": [
+                    "Mastery of Figma, Adobe XD, and Photoshop.",
+                    "Strong understanding of visual hierarchy, typography, and colour theory.",
+                    "Ability to present and defend design decisions to stakeholders.",
+                    "Knowledge of basic HTML/CSS is a plus."
+                ]
+            },
+            "4": {
+                "jobTitle": "AI & Machine Learning Engineer",
+                "jobType": "Full Time",
+                "location": "Remote / Office",
+                "jobLink": "https://www.linkedin.com/company/my-softake/jobs/",
+                "description": "Build and deploy machine learning models to solve complex real-world problems and enhance product intelligence.",
+                "educationalRequirements": "MSc or BSc in CSE, Mathematics, or Data Science.",
+                "experience": "2 to 4 years in AI/ML field.",
+                "jobResponsibilities": [
+                    "Design, develop, and test machine learning models for predictive analysis.",
+                    "Pre-process and clean large datasets for model training.",
+                    "Optimise existing ML algorithms for better performance and scalability.",
+                    "Deploy models to production using FastAPI or Flask."
+                ],
+                "additionalRequirements": [
+                    "Proficiency in Python and libraries like TensorFlow, PyTorch, or Scikit-learn.",
+                    "Experience with Natural Language Processing (NLP) or Computer Vision.",
+                    "Knowledge of SQL and Big Data technologies.",
+                    "Solid understanding of statistics and linear algebra."
+                ]
+            },
+            "5": {
+                "jobTitle": "IT Security Specialist",
+                "jobType": "Full Time",
+                "location": "Dhaka, Bangladesh",
+                "jobLink": "https://www.linkedin.com/company/my-softake/jobs/",
+                "description": "Ensure the security and integrity of our corporate networks and cloud infrastructure against cyber threats.",
+                "educationalRequirements": "BSc in CSE or Cyber Security.",
+                "experience": "3+ years in information security.",
+                "jobResponsibilities": [
+                    "Conduct regular security audits and vulnerability assessments.",
+                    "Monitor network traffic for suspicious activity and potential breaches.",
+                    "Develop and implement security protocols and firewalls.",
+                    "Respond to and investigate security incidents."
+                ],
+                "additionalRequirements": [
+                    "Certifications like CEH, CISSP, or CompTIA Security+.",
+                    "Experience with penetration testing tools like Kali Linux or Metasploit.",
+                    "Strong understanding of encryption, VPNs, and IAM.",
+                    "Excellent problem-solving and analytical skills."
+                ]
+            },
+            "6": {
+                "jobTitle": "Supply Chain Strategist",
+                "jobType": "Full Time",
+                "location": "Gazipur, Bangladesh",
+                "jobLink": "https://www.linkedin.com/company/my-softake/jobs/",
+                "description": "Optimise international export and import operations whilst ensuring compliance with global trade regulations.",
+                "educationalRequirements": "Bachelor in Supply Chain Management or Business Administration.",
+                "experience": "3 to 5 years in logistics or supply chain.",
+                "jobResponsibilities": [
+                    "Analyse and improve logistics workflows to reduce costs and lead times.",
+                    "Manage relationships with international vendors and freight forwarders.",
+                    "Ensure compliance with customs laws and global trade regulations.",
+                    "Oversee inventory management and demand forecasting."
+                ],
+                "additionalRequirements": [
+                    "Proficiency in ERP systems like SAP or Oracle.",
+                    "Strong negotiation and vendor management skills.",
+                    "Excellent analytical skills using Excel or Power BI.",
+                    "Knowledge of international shipping documentation."
+                ]
+            }
+        }
+    },
+    "CareerData": [
+        {
+            "id": 1,
+            "jobTitle": "Cloud DevOps Engineer",
+            "jobType": "Full Time",
+            "location": "Dhaka, Bangladesh",
+            "jobLink": "https://www.linkedin.com/company/my-softake/jobs/",
+            "description": "BJIT is hiring a Cloud DevOps Engineer to manage cloud infrastructure, CI/CD pipelines, automation, and deployment using modern DevOps tools and cloud platforms.",
+            "educationalRequirements": "Bachelor of Science (BSc) in CSE",
+            "experience": "1 to 3 year(s) hands on experience with Public Cloud platforms (Azure/AWS/GCP)",
+            "jobResponsibilities": [
+                "Work as a team member of a DevOps team or work independently.",
+                "Design and implement DevSecOps solutions based on business requirements using modern cloud-native technologies.",
+                "Support team lead to design complete solution of Cloud & DevOps services.",
+                "Deploy and manage containerized applications using Docker and Kubernetes (AKS/EKS/GKE) with Helm charts.",
+                "Implement monitoring and observability solutions using Prometheus/Grafana or Datadog."
+            ],
+            "additionalRequirements": [
+                "Strong hands-on experience with Terraform.",
+                "Experience with security best practices including secrets management and network policies.",
+                "Working knowledge of RDBMS (PostgreSQL/MySQL) and NoSQL databases.",
+                "Basic programming skills in Python or Go for automation."
+            ]
+        },
+        {
+            "id": 2,
+            "jobTitle": "Senior Full Stack Developer",
+            "jobType": "Remote",
+            "location": "Global",
+            "jobLink": "https://www.linkedin.com/company/my-softake/jobs/",
+            "description": "We are looking for a Senior Full Stack Developer proficient in Next.js and Node.js to build scalable web applications.",
+            "educationalRequirements": "Bachelor's degree in CSE, IT or related field.",
+            "experience": "4+ years of professional software development experience.",
+            "jobResponsibilities": [
+                "Lead the development of complex web applications using React and Next.js.",
+                "Architect and maintain robust server-side logic using Node.js and Express.",
+                "Collaborate with the UI/UX team to ensure high-quality design implementation.",
+                "Perform code reviews and mentor junior developers."
+            ],
+            "additionalRequirements": [
+                "Expertise in TypeScript and modern JavaScript (ES6+).",
+                "Deep understanding of state management like Redux or Zustand.",
+                "Hands-on experience with MongoDB or PostgreSQL.",
+                "Familiarity with AWS services and CI/CD workflows."
+            ]
+        }
+    ],
+    "ContactPage": {
+        "hero": {
+            "title": "Contact Us",
+            "home": "Home",
+            "breadcrumb": "Contact Us"
+        },
+        "getInTouch": "Get In Touch",
+        "mainHeading": "Let's connect and build your digital future.",
+        "generalEnquiry": "For general enquiries you can contact our front desk support team at",
+        "orCallOn": "or call on",
+        "email": "info.mysoftake@gmail.com",
+        "phone": "+88 01910-219667",
+        "branchesText": "We have offices in 3 countries worldwide.",
+        "seeBranches": "see our branches.",
+        "contactInfo": {
+            "address": {
+                "title": "Address",
+                "details": "Sector 9, Road 3/E, House 04, Uttara, Dhaka-1230."
+            },
+            "phone": {
+                "title": "Phone",
+                "details": "+88 01910-219667"
+            },
+            "email": {
+                "title": "E-Mail",
+                "details": "info.mysoftake@gmail.com"
+            }
+        },
+        "helpOptions": {
+            "webDevelopment": "Web Development",
+            "uiUxDesign": "UI/UX Design",
+            "appDevelopment": "App Development",
+            "digitalMarketing": "Digital Marketing",
+            "consultancy": "Consultancy",
+            "manufacturing": "Manufacturing & Production",
+            "export": "Export & Import",
+            "it": "Information Technology",
+            "transport": "Transport & Logistics",
+            "travel": "Travel & Tourism",
+            "construction": "Construction & Infrastructure"
+        },
+        "form": {
+            "sendYourMessage": "Send Your Message",
+            "name": "Name",
+            "namePlaceholder": "Full Name",
+            "emailLabel": "Email",
+            "emailPlaceholder": "Email Address",
+            "helpWith": "What can we help you with?",
+            "selectServices": "Select services",
+            "subject": "Subject",
+            "subjectPlaceholder": "Subject",
+            "message": "Message",
+            "messagePlaceholder": "Your Message",
+            "sendMessage": "Send Message"
+        }
+    },
+    "VisionMission": {
+        "visionTitle": "Our Vision",
+        "visionDesc": "MY SOFTAKE PLC envisions becoming a leading global force in innovative technology and business solutions. Our vision is to create a smarter, more connected future where organisations can grow confidently with the support of intelligent, efficient, and sustainable systems. Through continuous innovation, customer-centric development, and a commitment to excellence, we strive to empower businesses to transform, thrive, and achieve long-term success in an ever-evolving digital world.",
+        "missionTitle": "Our Mission",
+        "missionDesc": "MY SOFTAKE PLC is dedicated to delivering high-quality, innovative, and reliable solutions that meet the evolving needs of businesses across diverse industries. Our mission is to enhance operational efficiency, strengthen digital capabilities, and provide value-driven services that support sustainable growth. We work with integrity, professionalism, and a customer-first mindset, ensuring every solution we deliver contributes to long-term success, stronger performance, and meaningful impact for our clients and communities."
+    },
+    "AboutPage": {
+        "heroTitle": "About Us"
+    },
+    "OurCreators": {
+        "title": "Join with Our Creators Of Change",
+        "description": "Be part of a passionate community driving innovation, creativity, and meaningful impact for a better tomorrow.",
+        "teamworkQuote": "Teamwork turns vision into reality."
+    },
+    "FeaturedOn": {
+        "title": "We Featured On"
+    },
+    "TeamPage": {
+        "managementTeam": {
+            "title": "Management Team",
+            "subtitle": "efficient, customer-cen-tric development, and a commitment to excel-lence, we strive to empower businesses to transform, thrive, and achieve long-term success in an ever-evolving digital world."
+        },
+        "itTeam": {
+            "title": "IT Team"
+        },
+        "adviserTeam": {
+            "title": "Adviser Team"
+        },
+        "manufacturingTeam": {
+            "title": "Manufacturing & Product Team"
+        },
+        "exportImportTeam": {
+            "title": "Export & Import Team"
+        },
+        "transportLogisticsTeam": {
+            "title": "Transport & Logistics Team"
+        },
+        "marketingTeam": {
+            "title": "Marketing Team"
+        },
+        "loading": "Loading...",
+        "email": "Email:",
+        "phone": "Phone:",
+        "designations": {
+            "Chairman": "Chairman",
+            "Chief Executive Officer": "Chief Executive Officer",
+            "Director Finance": "Director Finance",
+            "Director Operations": "Director Operations",
+            "Managing Director": "Managing Director",
+            "Operations Head": "Operations Head",
+            "Software Engineer": "Software Engineer",
+            "UI/UX Designer": "UI/UX Designer",
+            "DevOps Engineer": "DevOps Engineer",
+            "Frontend Developer": "Frontend Developer",
+            "Backend Developer": "Backend Developer",
+            "Factory Supervisor": "Factory Supervisor",
+            "Line Manager": "Line Manager",
+            "Production Manager": "Production Manager",
+            "Quality Inspector": "Quality Inspector",
+            "International Coordinator": "International Coordinator",
+            "Export Manager": "Export Manager",
+            "Import Officer": "Import Officer",
+            "Transport Officer": "Transport Officer",
+            "Logistics Manager": "Logistics Manager",
+            "Fleet Supervisor": "Fleet Supervisor",
+            "Brand Strategist": "Brand Strategist",
+            "Marketing Head": "Marketing Head",
+            "Digital Marketer": "Digital Marketer",
+            "Development Director": "Development Director",
+            "Finance Director": "Finance Director",
+            "Chief Marketing Officer": "Chief Marketing Officer",
+            "Chief Technology Officer": "Chief Technology Officer",
+            "Admin & Adminstrative Officer": "Admin & Administrative Officer",
+            "Advisor": "Advisor",
+            "Product Sourceing Officer": "Product Sourcing Officer",
+            "Senior Marketing Officer": "Senior Marketing Officer",
+            "Sales Executive": "Sales Executive",
+            "Office Executive": "Office Executive",
+            "Backend Developer(Team Lead)": "Backend Developer (Team Lead)",
+            "Junior Backend Developer": "Junior Backend Developer",
+            "Junior Frontend Developer": "Junior Frontend Developer",
+            "Graphic Designer": "Graphic Designer",
+            "Senior Office Executive": "Senior Office Executive",
+            "Video Editor": "Video Editor"
+        },
+        "names": {
+            "Ye Feiqiang": "Ye Feiqiang",
+            "Abir Al Faysal": "Abir Al Faysal",
+            "Musfiqur Rahman Niaz": "Musfiqur Rahman Niaz",
+            "MD Abu Taleb Khan": "MD Abu Taleb Khan",
+            "Rony Ahmed": "Rony Ahmed",
+            "Amrito Mondol": "Amrito Mondol",
+            "Habiba Jannat Bristy": "Habiba Jannat Bristy",
+            "Sadman Fardin Fiha": "Sadman Fardin Fiha",
+            "Mohammad Hellal": "Mohammad Hellal",
+            "Alma Khanam": "Alma Khanam",
+            "Mobarak Hossain Mahin": "Mobarak Hossain Mahin",
+            "Md Bellal Hossain": "Md Bellal Hossain",
+            "Abu Nahid Md Noorshat": "Abu Nahid Md Noorshat",
+            "Md Mukul Miya": "Md Mukul Miya",
+            "Monir Hossain": "Monir Hossain",
+            "Abu Fuzael": "Abu Fuzael",
+            "MD Sabuj Howlader": "MD Sabuj Howlader",
+            "Mohammad Masud": "Mohammad Masud",
+            "Mohammad Arman Hossain": "Mohammad Arman Hossain",
+            "Md Hacibul Haque": "Md Hacibul Haque",
+            "Mohammad fahim": "Mohammad fahim",
+            "Mohammad shorab": "Mohammad shorab",
+            "NURUL AMIN": "NURUL AMIN",
+            "Arif Hossain": "Arif Hossain",
+            "Sayeed Mahmud": "Sayeed Mahmud",
+            "Mahbub Alam": "Mahbub Alam",
+            "Tareq Hasan": "Tareq Hasan",
+            "Md Yeasin Arafat": "Md Yeasin Arafat",
+            "Md Rony": "Md Rony",
+            "Rafiul Islam": "Rafiul Islam",
+            "Nafis Ahmed": "Nafis Ahmed",
+            "Shihab Uddin": "Shihab Uddin",
+            "Taleb Khan": "Taleb Khan",
+            "Hasan Mahmud": "Hasan Mahmud",
+            "Sohel Rana": "Sohel Rana",
+            "Kamal Uddin": "Kamal Uddin",
+            "Rakib Hossain": "Rakib Hossain",
+            "Sajib Islam": "Sajib Islam",
+            "Rashed Kabir": "Rashed Kabir",
+            "Shakil Ahmed": "Shakil Ahmed",
+            "Tanvir Hasan": "Tanvir Hasan",
+            "Sharif Uddin": "Sharif Uddin",
+            "Imran Khan": "Imran Khan",
+            "Nayeem Rahman": "Nayeem Rahman",
+            "Riyad Hossain": "Riyad Hossain",
+            "Fahim Rahman": "Fahim Rahman",
+            "Sabbir Ahmed": "Sabbir Ahmed"
+        }
+    },
+    "TermsPage": {
+        "title": "Terms of Service",
+        "section1Title": "1. Acceptance of Terms",
+        "section1Desc": "By accessing and using the services provided by MultiService Agency, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions. If you do not agree with any part of these terms, you must not use our services.",
+        "section1List": ["These terms constitute a legally binding agreement between you and MultiService Agency.", "We reserve the right to modify these terms at any time without prior notice.", "Continued use of our services after changes constitutes acceptance of the new terms."],
+        "section2Title": "2. Service Categories",
+        "section2Desc": "Our agency provides services across six main categories. Specific terms apply to each category:",
+        "section2List": ["Manufacturing & Production: All manufacturing services are subject to project-specific agreements.", "Export & Import: International trade services are governed by applicable international laws and regulations.", "Information Technology: IT services include specific SLA agreements for each project.", "Transport & Logistics: Transportation services follow industry-standard liability limits.", "Travel & Tourism: Travel bookings are subject to provider terms and cancellation policies.", "Construction & Infrastructure: Construction projects require separate detailed contracts."],
+        "section3Title": "3. User Responsibilities",
+        "section3Desc": "As a user of our services, you agree to:",
+        "section3List": ["Provide accurate and complete information for service requests", "Comply with all applicable laws and regulations", "Maintain the confidentiality of your account credentials", "Not use our services for any illegal or unauthorized purpose", "Pay all applicable fees in a timely manner", "Respect intellectual property rights of all parties"],
+        "section4Title": "4. Payment Terms",
+        "section4Desc": "All services are subject to the following payment terms:",
+        "section4List": ["Quotes are valid for 30 days from the date of issuance", "A 30% advance payment is required for project initiation", "Balance payments are due as per agreed milestones", "Late payments may incur interest charges of 2% per month", "All prices are exclusive of applicable taxes", "Refund policies vary by service category"],
+        "section5Title": "5. Intellectual Property",
+        "section5Desc": "Intellectual property rights are protected as follows:",
+        "section5List": ["All proprietary information remains the property of MultiService Agency", "Client-provided materials remain the property of the client", "Deliverables include specified usage rights as per contract", "Unauthorized use of copyrighted material is strictly prohibited", "Confidentiality agreements protect sensitive information"],
+        "section6Title": "6. Liability and Limitations",
+        "section6Desc": "Our liability is limited as follows:",
+        "section6List": ["We are not liable for indirect, incidental, or consequential damages", "Maximum liability is limited to the service fee paid", "Force majeure events exempt us from liability", "Third-party service issues are not our responsibility", "Proper insurance is required for high-risk projects"],
+        "section7Title": "7. Termination",
+        "section7Desc": "Either party may terminate services under these conditions:",
+        "section7List": ["30 days written notice for ongoing services", "Immediate termination for breach of terms", "Termination fees may apply as per contract", "Outstanding payments become immediately due", "Data retention follows applicable laws"],
+        "section8Title": "8. Governing Law",
+        "section8Desc": "These terms are governed by:",
+        "section8List": ["Bangladeshi law for domestic transactions", "UNCITRAL for international transactions", "Disputes resolved through arbitration in Dhaka", "Arbitration awards are binding and final", "English version of terms prevails"],
+        "section9Title": "9. Definitions",
+        "section9Desc": "",
+        "section9List": ["Services: Refers to any and all services provided by MultiService Agency across all categories.", "Client: Any individual or entity that uses or purchases our services.", "Agreement: The complete set of terms, conditions, and specific service contracts.", "Force Majeure: Unforeseeable circumstances preventing service fulfillment."]
+    },
+    "SchedulePage": {
+        "schedule": "Schedule",
+        "meetings": "Meetings",
+        "availability": "Availability",
+        "liveBadge": "Live scheduling workspace",
+        "heroTitle": "Schedule meetings without the back-and-forth.",
+        "heroDesc": "Collect meeting polls, and keep every business conversation exactly where it belongs on your calendar.",
+        "createLink": "Create scheduling link",
+        "watchDemo": "Watch 90s demo",
+        "smartRouting": "Smart routing",
+        "smartRoutingDesc": "Round‑robin and collective scheduling for teams, with time zones handled automatically.",
+        "meetingPolls": "Meeting polls",
+        "meetingPollsDesc": "Let guests vote on times and confirm the winner with one click.",
+        "availabilityRules": "Availability rules",
+        "availabilityRulesDesc": "Define working hours, buffers, and caps per day to protect your focus time.",
+        "meetingsTitle": "Meetings",
+        "meetingsDesc": "Manage your past and upcoming syncs.",
+        "noMeetings": "No meetings yet",
+        "noMeetingsDesc": "Your scheduled appointments will show up here once confirmed.",
+        "BookingWidget": {
+            "title": "Booking with Maya",
+            "subtitle": "Pure JavaScript Fetch Mode",
+            "share": "Share",
+            "selectDateTime": "Select Date & Time",
+            "timezone": "Timezone",
+            "noSlots": "No slots available.",
+            "confirmSelection": "Confirm Selection",
+            "bookingDetails": "Booking Details",
+            "name": "Name",
+            "email": "Email",
+            "department": "Department",
+            "selectDepartment": "Select...",
+            "scheduleNow": "Schedule Now",
+            "selectSlotError": "Please select a time slot.",
+            "successMessage": "Successfully scheduled!",
+            "loadError": "Could not load slots"
+        },
+        "Availability": {
+            "description": "See exactly when you're free across calendars and event types.",
+            "description2": "Drag to block, tap to open.",
+            "syncCalendars": "Sync calendars",
+            "weekView": "Week view",
+            "bookableSlots": "Bookable slots",
+            "existingMeetings": "Existing meetings",
+            "blockedTime": "Blocked time",
+            "noMeetingsFree": "No meetings · All slots free",
+            "noSchedule": "No Schedule loaded for this week."
+        }
+    }
+}

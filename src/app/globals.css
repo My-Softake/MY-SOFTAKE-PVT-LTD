@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+
+  /* Roboto font variable */
+  --font-sans: var(--font-roboto);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  /* Tailwind default font */
+  --font-sans: var(--font-roboto);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+:root[class="dark"] {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);  
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* our service card */
+.service-card {
+  background: linear-gradient(180deg, #101c3d 0%, #080f26 100%);
+  border-radius: 20px; 
+  padding: 1.5rem;
+  width: 100%;
+  height: auto;
+  min-height: 200px; 
+  transition: background 0.5s ease, transform 0.5s ease, box-shadow 0.5s ease;
+  cursor: pointer;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.service-card:hover {
+  background: linear-gradient(135deg, #17386f 0%, #2b59cf 100%);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 0.3);
+  transform: translateY(-1px);
+  transition: all 0.5s ease-in-out;
+  
+}  
+
+
+/* about button effect */
+

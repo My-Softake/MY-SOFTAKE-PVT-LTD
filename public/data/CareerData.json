@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Cloud DevOps Engineer",
+    "jobType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "jobLink":"https://www.linkedin.com/company/my-softake/jobs/",
+    "description": "BJIT is hiring a Cloud DevOps Engineer to manage cloud infrastructure, CI/CD pipelines, automation, and deployment using modern DevOps tools and cloud platforms.",
+    "educationalRequirements": "Bachelor of Science (BSc) in CSE",
+    "experience": "1 to 3 year(s) hands on experience with Public Cloud platforms (Azure/AWS/GCP)",
+    "jobResponsibilities": [
+      "Work as a team member of a DevOps team or work independently.",
+      "Design and implement DevSecOps solutions based on business requirements using modern cloud-native technologies.",
+      "Support team lead to design complete solution of Cloud & DevOps services.",
+      "Deploy and manage containerized applications using Docker and Kubernetes (AKS/EKS/GKE) with Helm charts.",
+      "Implement monitoring and observability solutions using Prometheus/Grafana or Datadog."
+    ],
+    "additionalRequirements": [
+      "Strong hands-on experience with Terraform.",
+      "Experience with security best practices including secrets management and network policies.",
+      "Working knowledge of RDBMS (PostgreSQL/MySQL) and NoSQL databases.",
+      "Basic programming skills in Python or Go for automation."
+    ]
+  },
+  {
+    "id": 2,
+    "jobTitle": "Senior Full Stack Developer",
+    "jobType": "Remote",
+    "location": "Global",
+    "jobLink":"https://www.linkedin.com/company/my-softake/jobs/",
+    "description": "We are looking for a Senior Full Stack Developer proficient in Next.js and Node.js to build scalable web applications.",
+    "educationalRequirements": "Bachelor's degree in CSE, IT or related field.",
+    "experience": "4+ years of professional software development experience.",
+    "jobResponsibilities": [
+      "Lead the development of complex web applications using React and Next.js.",
+      "Architect and maintain robust server-side logic using Node.js and Express.",
+      "Collaborate with the UI/UX team to ensure high-quality design implementation.",
+      "Perform code reviews and mentor junior developers."
+    ],
+    "additionalRequirements": [
+      "Expertise in TypeScript and modern JavaScript (ES6+).",
+      "Deep understanding of state management like Redux or Zustand.",
+      "Hands-on experience with MongoDB or PostgreSQL.",
+      "Familiarity with AWS services and CI/CD workflows."
+    ]
+  },
+  {
+    "id": 3,
+    "jobTitle": "UI/UX Designer",
+    "jobType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "jobLink":"https://www.linkedin.com/company/my-softake/jobs/",
+    "description": "Join our design team to create intuitive digital products and maintain consistent brand identities across platforms.",
+    "educationalRequirements": "Graduate in Graphic Design, Fine Arts, or related discipline.",
+    "experience": "2+ years of experience in product design.",
+    "jobResponsibilities": [
+      "Create high-fidelity mockups, wireframes, and interactive prototypes.",
+      "Conduct user research and usability testing to iterate on designs.",
+      "Maintain and evolve our internal design system.",
+      "Collaborate with developers to ensure pixel-perfect implementation."
+    ],
+    "additionalRequirements": [
+      "Mastery of Figma, Adobe XD, and Photoshop.",
+      "Strong understanding of visual hierarchy, typography, and color theory.",
+      "Ability to present and defend design decisions to stakeholders.",
+      "Knowledge of basic HTML/CSS is a plus."
+    ]
+  },
+  {
+    "id": 4,
+    "jobTitle": "AI & Machine Learning Engineer",
+    "jobType": "Full Time",
+    "location": "Remote / Office",
+    "jobLink":"https://www.linkedin.com/company/my-softake/jobs/",
+    "description": "Build and deploy machine learning models to solve complex real-world problems and enhance product intelligence.",
+    "educationalRequirements": "MSc or BSc in CSE, Mathematics, or Data Science.",
+    "experience": "2 to 4 years in AI/ML field.",
+    "jobResponsibilities": [
+      "Design, develop, and test machine learning models for predictive analysis.",
+      "Pre-process and clean large datasets for model training.",
+      "Optimize existing ML algorithms for better performance and scalability.",
+      "Deploy models to production using FastAPI or Flask."
+    ],
+    "additionalRequirements": [
+      "Proficiency in Python and libraries like TensorFlow, PyTorch, or Scikit-learn.",
+      "Experience with Natural Language Processing (NLP) or Computer Vision.",
+      "Knowledge of SQL and Big Data technologies.",
+      "Solid understanding of statistics and linear algebra."
+    ]
+  },
+  {
+    "id": 5,
+    "jobTitle": "IT Security Specialist",
+    "jobType": "Full Time",
+    "location": "Dhaka, Bangladesh",
+    "jobLink":"https://www.linkedin.com/company/my-softake/jobs/",
+    "description": "Ensure the security and integrity of our corporate networks and cloud infrastructure against cyber threats.",
+    "educationalRequirements": "BSc in CSE or Cyber Security.",
+    "experience": "3+ years in information security.",
+    "jobResponsibilities": [
+      "Conduct regular security audits and vulnerability assessments.",
+      "Monitor network traffic for suspicious activity and potential breaches.",
+      "Develop and implement security protocols and firewalls.",
+      "Respond to and investigate security incidents."
+    ],
+    "additionalRequirements": [
+      "Certifications like CEH, CISSP, or CompTIA Security+.",
+      "Experience with penetration testing tools like Kali Linux or Metasploit.",
+      "Strong understanding of encryption, VPNs, and IAM.",
+      "Excellent problem-solving and analytical skills."
+    ]
+  },
+  {
+    "id": 6,
+    "jobTitle": "Supply Chain Strategist",
+    "jobType": "Full Time",
+    "location": "Gazipur, Bangladesh",
+    "jobLink":"https://www.linkedin.com/company/my-softake/jobs/",
+    "description": "Optimize international export and import operations while ensuring compliance with global trade regulations.",
+    "educationalRequirements": "Bachelor in Supply Chain Management or Business Administration.",
+    "experience": "3 to 5 years in logistics or supply chain.",
+    "jobResponsibilities": [
+      "Analyze and improve logistics workflows to reduce costs and lead times.",
+      "Manage relationships with international vendors and freight forwarders.",
+      "Ensure compliance with customs laws and global trade regulations.",
+      "Oversee inventory management and demand forecasting."
+    ],
+    "additionalRequirements": [
+      "Proficiency in ERP systems like SAP or Oracle.",
+      "Strong negotiation and vendor management skills.",
+      "Excellent analytical skills using Excel or Power BI.",
+      "Knowledge of international shipping documentation."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "2026-03-10": [
+    { "day": "Mon", "date": 10, "events": [{ "title": "Blocked · Focus", "type": "blocked" }, { "title": "Free · 60 min", "type": "free" }] },
+    { "day": "Tue", "date": 11, "events": [{ "title": "Intro cal", "type": "meeting" }, { "title": "Free · 30 min", "type": "free" }] },
+    { "day": "Wed", "date": 12, "events": [{ "title": "Team sync", "type": "sync" }] },
+    { "day": "Thu", "date": 13, "events": [{ "title": "Client review", "type": "meeting" }, { "title": "Free · 45 min", "type": "free" }] },
+    { "day": "Fri", "date": 14, "events": [] }
+  ],
+  "2026-03-17": [
+    { "day": "Mon", "date": 17, "events": [{ "title": "Project Kickoff", "type": "meeting" }] },
+    { "day": "Tue", "date": 18, "events": [{ "title": "Free · 60 min", "type": "free" }] },
+    { "day": "Wed", "date": 19, "events": [{ "title": "Design Sync", "type": "sync" }] },
+    { "day": "Thu", "date": 20, "events": [{ "title": "Review · 30 min", "type": "meeting" }] },
+    { "day": "Fri", "date": 21, "events": [] }
+  ],
+  "2026-03-24": [
+    { "day": "Mon", "date": 24, "events": [{ "title": "Sprint Planning", "type": "sync" }] },
+    { "day": "Tue", "date": 25, "events": [{ "title": "Free · 90 min", "type": "free" }] },
+    { "day": "Wed", "date": 26, "events": [{ "title": "Development", "type": "blocked" }] },
+    { "day": "Thu", "date": 27, "events": [{ "title": "Bug Bash", "type": "meeting" }] },
+    { "day": "Fri", "date": 28, "events": [] }
+  ],
+  "2026-03-31": [
+    { "day": "Mon", "date": 31, "events": [{ "title": "Final Review", "type": "meeting" }] },
+    { "day": "Tue", "date": 1, "events": [{ "title": "Free · 30 min", "type": "free" }] },
+    { "day": "Wed", "date": 2, "events": [{ "title": "Internal Sync", "type": "sync" }] },
+    { "day": "Thu", "date": 3, "events": [{ "title": "Client Call", "type": "meeting" }] },
+    { "day": "Fri", "date": 4, "events": [] }
+  ]
+}

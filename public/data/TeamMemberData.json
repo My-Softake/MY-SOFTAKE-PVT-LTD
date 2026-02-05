@@ -1,0 +1,221 @@
+{
+  "management": [
+    {
+      "id": 1,
+      "name": "Ye Feiqiang",
+      "designation": "Chairman",
+      "image": "/images/chairman.jpeg",
+      "gmail": "chairman@mysoftake.com.bd",
+      "phoneNumber": "+861365-555-1302"
+    },
+    {
+      "id": 2,
+      "name": "Mohammad Hellal",
+      "designation": "Chief Executive Officer",
+      "image": "/images/ceo.jpeg",
+      "gmail": "ceo@mysoftake.com.bd",
+      "phoneNumber": "+880 1717451905"
+    },
+    {
+      "id": 3,
+      "name": "Md Yeasin Arafat",
+      "designation": "Managing Director",
+      "image": "/images/md.jpeg",
+      "gmail": "md@mysoftake.com.bd",
+      "phoneNumber": "+880 1302788947"
+    },
+    {
+      "id": 4,
+      "name": "Alma Khanam",
+      "designation": "Development Director",
+      "image": "/images/alma khanama.jpeg",
+      "gmail": "almakhan2019@gmail.com",
+      "phoneNumber": "+880 1771530345"
+    },
+    {
+      "id": 5,
+      "name": "Mobarak Hossain Mahin",
+      "designation": "Finance Director",
+      "image": "/images/mubarak hossain mahin.jpeg",
+      "gmail": "accounts@mysoftake.com.bd",
+      "phoneNumber": "+880 1600976047"
+    },
+    {
+      "id": 6,
+      "name": "Md Bellal Hossain",
+      "designation": "Chief Marketing Officer",
+      "image": "/images/chif markeating officer.jpeg",
+      "gmail": "cmo@mysoftake.com.bd",
+      "phoneNumber": "+880 1917534704"
+    },
+    {
+      "id": 7,
+      "name": "Abu Nahid Md Noorshat",
+      "designation": "Chief Technology Officer",
+      "image": "/images/chief technology officer.jpeg",
+      "gmail": "cto@mysoftake.com.bd",
+      "phoneNumber": "+880 1757881477"
+    },
+    {
+      "id": 8,
+      "name": "Md Mukul Miya",
+      "designation": "Admin & Adminstrative Officer",
+      "image": "/images/man img formet.jpeg",
+      "gmail": "cto@mysoftake.com.bd",
+      "phoneNumber": "+880 1757881477"
+    }
+  ],
+
+  "adviser": [
+    {
+      "id": 1,
+      "name": "Monir Hossain",
+      "designation": "Advisor",
+      "image": "/images/advaiser_one.jpeg",
+      "gmail": "emdadu2025hokh@gmail.com",
+      "phoneNumber": "+880 1601344411"
+    },
+    {
+      "id": 2,
+      "name": "Abu Fuzael",
+      "designation": "Advisor",
+      "image": "/images/advaiser_two.jpeg",
+      "gmail": "abufuzale.as@gmail.com",
+      "phoneNumber": "+880 1312237340"
+    },
+    {
+      "id": 3,
+      "name": "MD Sabuj Howlader",
+      "designation": "Advisor",
+      "image": "/images/advaise_three.jpeg",
+      "gmail": "info@howlader.com",
+      "phoneNumber": "+880 1714219240"
+    }
+  ],
+
+  "marketing": [
+    {
+      "id": 1,
+      "name": "Md Bellal Hossain",
+      "designation": "Chief Marketing Officer",
+      "image": "/images/chif markeating officer.jpeg",
+      "gmail": "cmo@mysoftake.com.bd",
+      "phoneNumber": "+880 1917534704"
+    },
+    {
+      "id": 2,
+      "name": "Mohammad Masud",
+      "designation": "Product Sourceing Officer",
+      "image": "/images/mdmasud.jpeg",
+      "gmail": "md.masudnil17@gmail.com",
+      "phoneNumber": "+86 18225891431"
+    },
+    {
+      "id": 3,
+      "name": "Mohammad Arman Hossain",
+      "designation": "Senior Marketing Officer",
+      "image": "/images/arman hosssain.jpeg",
+      "gmail": "mohammada11318914@gmail.com",
+      "phoneNumber": "+880 1828565901"
+    },
+    {
+      "id": 4,
+      "name": "Md Hacibul Haque",
+      "designation": "Senior Marketing Officer",
+      "image": "/images/hasibul.jpeg",
+      "gmail": "hachibul916@gmail.com",
+      "phoneNumber": "+880 1723825916"
+    },
+    {
+      "id": 5,
+      "name": "Mohammad fahim",
+      "designation": "Sales Executive",
+      "image": "/images/man img formet.jpeg",
+      "gmail": "fahimmuntasir0181@gmail.com",
+      "phoneNumber": "+880 1829-331332"
+    },
+    {
+      "id": 6,
+      "name": "Mohammad shorab",
+      "designation": "Sales Executive",
+      "image": "/images/man img formet.jpeg",
+      "gmail": "mdshorab114@gmail.com",
+      "phoneNumber": "+880 1864763838"
+    },
+    {
+      "id": 7,
+      "name": "NURUL AMIN",
+      "designation": "Office Executive",
+      "image": "/images/NURUL AMIN.jpeg",
+      "gmail": "info.nurulamin@gmail.com",
+      "phoneNumber": "+880 1746403611"
+    }
+  ],
+
+  "it": [
+    {
+      "id": 1,
+      "name": "Abu Nahid Md Noorshat",
+      "designation": "Chief Technology Officer",
+      "image": "/images/chief technology officer.jpeg",
+      "gmail": "cto@mysoftake.com.bd",
+      "phoneNumber": "+880 1757881477"
+    },
+    {
+      "id": 2,
+      "name": "Abir Al Faysal",
+      "designation": "Backend Developer(Team Lead)",
+      "image": "/images/abir.png",
+      "gmail": "al.abir313@gmail.com",
+      "phoneNumber": "+880 1771-381929"
+    },
+    {
+      "id": 3,
+      "name": "Musfiqur Rahman Niaz",
+      "designation": "Junior Backend Developer",
+      "image": "/images/man img formet.jpeg",
+      "gmail": "mushfiqurniazwork33@gmail.com",
+      "phoneNumber": "+880 1312720060"
+    },
+    {
+      "id": 4,
+      "name": "MD Abu Taleb Khan",
+      "designation": "Junior Frontend Developer",
+      "image": "/images/abu taleb.png",
+      "gmail": "mdabutaleb.dev@gmail.com",
+      "phoneNumber": "+880 1622243011"
+    },
+    {
+      "id": 5,
+      "name": "Rony Ahmed",
+      "designation": "UI/UX Designer",
+      "image": "/images/rony UI.png",
+      "gmail": "mysoftakeroni@gmail.com",
+      "phoneNumber": "+880 1951-705846"
+    },
+    {
+      "id": 6,
+      "name": "Amrito Mondol",
+      "designation": "Graphic Designer",
+      "image": "/images/avi graphic.png",
+      "gmail": "amritomondol00@gmail.com",
+      "phoneNumber": "+880 1951-705846"
+    },
+    {
+      "id": 7,
+      "name": "Habiba Jannat Bristy",
+      "designation": "Senior Office Executive",
+      "image": "/images/man img formet.jpeg",
+      "gmail": "habibajannat19203011@gmail.com",
+      "phoneNumber": "+880 1992-624800"
+    },
+    {
+      "id": 8,
+      "name": "Sadman Fardin Fiha",
+      "designation": "Video Editor",
+      "image": "/images/fiha.png",
+      "gmail": "fardinfiha009@gmail.com",
+      "phoneNumber": "+880 1820-998658"
+    }
+  ]
+}

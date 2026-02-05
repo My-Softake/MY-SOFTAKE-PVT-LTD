@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "title": "Pi 360 Institute Management",
+    "category": "Information Technology",
+    "description": "Multi-campus, data-driven educational ERP designed to bridge the gap between administration, teachers, and students.",
+    "longDescription": "Pi 360 is a multi-campus, data-driven educational ERP designed to bridge the gap between administration, teachers, and students. It provides a centralized 'control tower' view for management while offering personalized dashboards for individual academic tracking.",
+    "image": "/images/information.jpg",
+    "client": "MY SOFTAKE PVT LTD",
+    "date": "January 2026",
+    "status": "Processing",
+    "tags": ["ERP", "Education", "Dashboard"],
+    "challenges": [
+      "Cross-Campus Synchronization: Maintaining real-time data consistency across different physical campus locations.",
+      "UI/UX Complexity: Condensing massive amounts of data (Financials, Attendance, Results) into a clean, mobile-responsive dashboard without overwhelming the user.",
+      "Performance Optimization: Ensuring the 'Explore Institutions' search remains fast even when filtering through thousands of data points."
+    ],
+    "techStack": ["React.js", "Next.js", "Tailwind CSS", "D3.js", "ApexCharts", "Node.js", "Python (Django)", "AWS", "Azure", "PostgreSQL", "Redis"],
+    "results": "99.99% Uptime maintained. Successfully migrated 10TB of legacy institutional data with zero downtime. Predictive analytics help management forecast revenue and student growth trends.",
+    "benefits": [
+      "Transparency: Real-time 'Fees Management' and 'Overdue' tracking reduces financial leakages and improves collection rates.",
+      "Efficiency: Automates the Notice Board and Class Schedules, reducing administrative manual labor by an estimated 40%.",
+      "Academic Improvement: Visual 'Marks in Each Subject' bars allow parents and teachers to identify weak spots instantly through predictive analytics"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "GadgetAdda E-commerce Platform",
+    "category": "Information Technology",
+    "description": "Comprehensive digital transformation of a retail electronics business with robust, high-traffic e-commerce engine.",
+    "longDescription": "A comprehensive digital transformation of a retail electronics business. This project involved building a robust, high-traffic e-commerce engine (Ecom2) with a sophisticated admin panel to manage multi-vendor inventory, real-time order tracking, and automated customer notifications. The platform is designed to handle thousands of SKUs and high-volume seasonal traffic with ease.",
+    "image": "/images/information.jpg",
+    "client": "GadgetAdda Retailers",
+    "date": "January 2024",
+    "status": "Completed",
+    "tags": ["E-commerce", "Single Vendor", "High Performance"],
+    "challenges": [
+      "Dynamic Stock Syncing: Coordinating real-time inventory updates across the online store and physical warehouse to prevent overselling.",
+      "Security & Fraud Prevention: Implementing secure checkout protocols and SSL encryption to protect sensitive customer payment data.",
+      "Scalability: Optimizing server-side rendering to maintain fast load times during high-traffic flash sales."
+    ],
+    "techStack": ["Next.js", "React", "Node.js", "Express", "Laravel", "MySQL", "MongoDB", "AWS", "DigitalOcean", "Load Balancers"],
+    "results": "Achieved 40% growth in monthly sales within the first quarter post-launch and maintained 99.9% system uptime during peak holiday sales.",
+    "benefits": [
+      "35% increase in operational efficiency for the warehouse team.",
+      "Centralized admin dashboard reduced order processing time from minutes to seconds.",
+      "Responsive design ensured seamless shopping experience across mobile and desktop devices."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Shobpi Multi-Vendor Marketplace",
+    "category": "Information Technology",
+    "description": "Sophisticated 'Multi-Vendor' marketplace designed to host thousands of independent sellers like Amazon or Daraz.",
+    "longDescription": "Shobpi is a sophisticated 'Multi-Vendor' marketplace (similar to Amazon or Daraz) designed to host thousands of independent sellers. The platform provides each vendor with a private dashboard to manage their own products, orders, and earnings, while the 'Super Admin' maintains global control over commissions, site-wide promotions, and vendor payouts.",
+    "image": "/images/information.jpg",
+    "client": "Shobpi Marketplace Group",
+    "date": "January 2025",
+    "status": "Completed",
+    "tags": ["Marketplace", "Multi-Vendor", "B2B2C"],
+    "challenges": [
+      "Vendor Quality Control: Implementing automated verification systems to ensure only legitimate sellers are onboarded.",
+      "Complex Logistics: Coordinating shipping when a single customer order contains items from three different vendors in different locations.",
+      "Wallet & Payout Security: Ensuring precise financial auditing for thousands of sub-accounts and automated tax calculations."
+    ],
+    "techStack": ["PHP (Laravel Multi-tenant)", "Python (Django)", "WebSockets (Socket.io)", "AWS S3", "Cloudfront CDN", "Microservices"],
+    "results": "Enables Rapid Catalog Expansion without physical inventory holdings. Scalable Revenue Model based on commissions and vendor subscription fees.",
+    "benefits": [
+      "One-Stop-Shop experience for customers with diverse range of products.",
+      "Rapid Catalog Expansion without the need for the owner to hold physical inventory.",
+      "Scalable Revenue Model based on commissions and vendor subscription fees."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "ShoShikha Educational Initiative",
+    "category": "Information Technology",
+    "description": "Comprehensive educational program designed to bridge gap between academic learning and industry-standard backend development.",
+    "longDescription": "A comprehensive educational initiative designed to bridge the gap between academic learning and industry-standard backend development. The project features a structured, 4-month curriculum that guides students through web fundamentals, Django core architecture, and REST API development. It integrates a hybrid learning model with live sessions, recorded resources, and intensive one-to-one mentorship.",
+    "image": "/images/information.jpg",
+    "client": "ShoShikha Educational Institute",
+    "date": "Ongoing",
+    "status": "Ongoing",
+    "tags": ["EdTech", "Backend", "Mentorship"],
+    "challenges": [
+      "Curriculum Pacing: Designing a flow that moves students from zero experience to advanced concepts like JWT authentication and Redis workflows in 4 months.",
+      "One-to-One Support: Maintaining high-quality mentorship and query resolution across both on-site and digital Discord communities.",
+      "Real-World Integration: Ensuring students can successfully integrate AI tools like GitHub Copilot and Cursor into their manual coding workflows."
+    ],
+    "techStack": ["Django (MVT)", "Django REST Framework (DRF)", "Git", "GitHub", "Docker", "Postman", "Insomnia", "Redis", "Render.com", "GitHub Copilot", "ChatGPT", "Cursor"],
+    "results": "Students complete a full-scale To-Do REST API project deployed with industry-standard security. Established a permanent learning-based Discord community for ongoing technical support.",
+    "benefits": [
+      "Successfully transforms beginners into job-ready developers.",
+      "6-month mentorship program assists with portfolio building, code reviews, and career guidance.",
+      "Learners gain ability to build and maintain complex backend systems, ready for junior developer roles."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Import-Export Management System",
+    "category": "Information Technology",
+    "description": "Comprehensive digital framework designed to manage the complexities of international trade and cross-border operations.",
+    "longDescription": "A comprehensive digital framework designed to manage the complexities of international trade. This project focuses on the end-to-end 'Import-Export' lifecycle—from sourcing global suppliers and managing customs documentation to tracking real-time shipments across borders. The system acts as a bridge between manufacturers, freight forwarders, and customs authorities to ensure the smooth flow of goods.",
+    "image": "/images/export import.jpg",
+    "client": "Manufacturer",
+    "date": "In Progress",
+    "status": "Processing",
+    "tags": ["Trade", "Logistics", "Compliance"],
+    "challenges": [
+      "Regulatory Compliance: Keeping pace with frequently changing trade policies, sanctions, and tax laws across different countries.",
+      "Logistics Complexity: Coordinating 'Last-Mile Delivery' and multimodal transfers (Sea to Rail to Road) without losing data continuity.",
+      "Financial Risk: Managing currency volatility and ensuring secure international payments through automated banking integrations."
+    ],
+    "techStack": ["Java (Spring Boot)", "Python (Django)", "EDI", "XML", "GPS/IoT sensors", "Big Data", "Blockchain", "PostgreSQL", "Oracle"],
+    "results": "Achieved 40% faster customs clearance through pre-validated digital documentation. Reduced document-related errors and penalties by over 90%.",
+    "benefits": [
+      "Efficiency: Significant reduction in lead times and administrative costs.",
+      "Accuracy: Automating 'Commercial Invoices' and 'Packing Lists' minimizes human error.",
+      "Global Reach: 360-degree visibility into landed costs, helping maintain better profit margins."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Tour & Travel Booking Platform",
+    "category": "Travel & Tourism",
+    "description": "Modern, end-to-end digital solution designed to simplify the complexities of the travel industry with real-time booking.",
+    "longDescription": "A modern, end-to-end digital solution designed to simplify the complexities of the travel industry. This project involves a high-performance booking engine that connects travelers with real-time inventory for flights, hotels, and local tours. The platform serves as a centralized hub for tour operators to create dynamic holiday packages, manage group departures, and provide automated travel assistance.",
+    "image": "/images/tourisam.jpg",
+    "client": "Travel & Tourism Operators",
+    "date": "In Progress",
+    "status": "Processing",
+    "tags": ["Booking", "Travel", "Real-time Inventory"],
+    "challenges": [
+      "Real-time Inventory Sync: Preventing overbooking by maintaining millisecond-level synchronization with global airline and hotel databases.",
+      "Payment Complexity: Integrating multi-currency payment gateways with automated conversion and secure 'Buy Now Pay Later' (BNPL) options.",
+      "Peak Traffic Scalability: Managing extreme traffic surges during holiday seasons or 'flash sale' events without system latency."
+    ],
+    "techStack": ["React.js", "Next.js", "Node.js", "Python (FastAPI/Django)", "GDS APIs (Amadeus, Sabre)", "Google Maps API", "AWS", "Google Cloud", "CDN"],
+    "results": "45% increase in booking speed by removing manual inquiry processes. Achieved 99.95% Uptime during peak vacation booking windows.",
+    "benefits": [
+      "Instant confirmation and digital vouchers for travelers.",
+      "Automated upsells through analytics (travel insurance, airport transfers).",
+      "30% reduction in administrative overhead through automated invoice generation."
+    ]
+  },
+  {
+    "id": 7,
+    "title": "POS & ERP Solution",
+    "category": "Information Technology",
+    "description": "High-performance, SaaS-ready Point of Sale (POS) and Enterprise Resource Planning solution transforming retail operations.",
+    "longDescription": "A high-performance, SaaS-ready Point of Sale (POS) and Enterprise Resource Planning (ERP) solution. This project transforms traditional retail counters into digital hubs by integrating sales, inventory, accounting, and HRM into a single cloud-based dashboard. Designed for scalability, it supports multi-warehouse management and real-time synchronization between web panels and mobile POS terminals.",
+    "image": "/images/information.jpg",
+    "client": "Retail & Enterprise Businesses",
+    "date": "In Progress",
+    "status": "Processing",
+    "tags": ["POS", "ERP", "Multi-Store"],
+    "challenges": [
+      "Offline Synchronization: Ensuring that sales can be processed even during internet outages and synced back to the cloud once a connection is restored.",
+      "Complex Tax/Discount Logic: Building a flexible engine that can handle flat discounts, percentage taxes, and coupon codes simultaneously at checkout.",
+      "Concurrent Transaction Handling: Optimizing the database to handle hundreds of simultaneous 'Read/Write' operations across multiple store outlets."
+    ],
+    "techStack": ["Laravel (PHP)", ".NET 8", "Vue.js", "React.js", "Flutter", "MySQL", "ESC/POS", "Barcode SDKs", "AWS", "DigitalOcean"],
+    "results": "Maintained 99.9% availability for critical retail operations. Achieved zero discrepancies in daily cash register closing reports.",
+    "benefits": [
+      "30-40% reduction in manual data entry errors.",
+      "Landed Cost Calculations and Profit/Loss Analytics automatically.",
+      "Enabled business owners to manage 10+ different branch locations from a single mobile device."
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Real-time GPS Tracking System",
+    "category": "Transport & Logistics",
+    "description": "High-performance IoT-based tracking solution for real-time monitoring of vehicles, assets, and personnel across the globe.",
+    "longDescription": "A high-performance IoT-based tracking solution designed for real-time monitoring of vehicles, assets, and personnel. The system integrates hardware GPS trackers with a robust cloud-based dashboard to provide live location updates, route history, and engine diagnostics. It is engineered to help businesses reduce operational costs, prevent theft, and optimize route efficiency through data-driven insights.",
+    "image": "/images/transport.jpg",
+    "client": "Logistics Companies / Private Security Firms",
+    "date": "May 2024",
+    "status": "Completed",
+    "tags": ["IoT", "GPS Tracking", "Fleet Management"],
+    "challenges": [
+      "Connectivity Dead Zones: Implementing 'Data Buffering' where the device stores coordinates in internal memory when offline and syncs them automatically.",
+      "Battery Optimization: Balancing the frequency of data pings (e.g., every 10 seconds) with the power consumption of the GPS hardware.",
+      "Geofencing Logic: Creating high-speed spatial queries to detect instantly when a vehicle enters or exits a predefined virtual boundary."
+    ],
+    "techStack": ["Node.js", "Python (FastAPI)", "React.js", "Leaflet", "Mapbox", "TimescaleDB", "MongoDB", "MQTT", "TCP/UDP", "AWS", "Azure"],
+    "results": "Achieved location accuracy within 3-5 meters under clear sky conditions. Sub-second data transmission from vehicle to mobile app. 100% reliability in push notifications.",
+    "benefits": [
+      "20-25% reduction in fuel consumption through better route planning.",
+      "Total visibility over mobile assets, improving security and response times.",
+      "Automated 'Maintenance Reminders' based on mileage tracking extend fleet lifespan."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Smart Factory Automation",
+    "category": "Information Technology",
+    "description": "Automated production line to increase efficiency and reduce downtime.",
+    "longDescription": "Our Smart Factory Automation project revolutionizes traditional manufacturing by integrating industry 4.0 standards. We implemented IoT sensors and automated arms that communicate in real-time to prevent errors before they happen. This system allows managers to monitor every aspect of production from a central dashboard.",
+    "image": "/images/menufactaring and production.jpg",
+    "client": "IndustriX Corp",
+    "date": "March 2024",
+    "status": "Completed",
+    "tags": ["Automation", "AI", "Robotics"],
+    "challenges": [
+      "Integrating legacy machinery with modern IoT sensors.",
+      "Ensuring zero-latency communication between robotic arms.",
+      "Training staff to operate the new automated dashboard."
+    ],
+    "techStack": ["Python", "AWS IoT", "TensorFlow", "Node.js"],
+    "results": "Increased production speed by 45% and reduced human error by 90%.",
+    "benefits": [
+      "Reduced production downtime and maintenance costs significantly.",
+      "Improved product quality through real-time error prevention.",
+      "Enhanced worker safety by automating dangerous manufacturing tasks."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "City Logistics Network",
+    "category": "Transport & Logistics",
+    "description": "Optimized logistics network connecting warehouses and stores efficiently.",
+    "longDescription": "Smart route planning and fleet management software designed to reduce delivery times and fuel consumption within urban areas using real-time traffic data.",
+    "image": "/images/transport log 2.png",
+    "client": "Urban Delivery Inc.",
+    "date": "March 2024",
+    "status": "Completed",
+    "tags": ["Logistics", "Green-Tech", "Route-Optimization"],
+    "challenges": [
+      "Real-time GPS tracking and traffic prediction.",
+      "Balancing load distribution across the delivery fleet.",
+      "Reducing carbon footprint of last-mile delivery."
+    ],
+    "techStack": ["Go", "Google Maps API", "RabbitMQ", "React Native"],
+    "results": "Reduced fuel costs by 20% and delivery time by 15 mins per order.",
+    "benefits": [
+      "Optimized routes save fuel and reduce operational costs.",
+      "Faster deliveries improve customer satisfaction and loyalty.",
+      "Real-time visibility enables proactive issue resolution."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tourist Booking Portal",
+    "category": "Travel & Tourism",
+    "description": "An online portal for booking travel and tourism packages easily.",
+    "longDescription": "A feature-rich booking engine offering personalized travel itineraries, hotel bookings, and guided tour reservations with an integrated payment gateway.",
+    "image": "/images/tourisam.jpg",
+    "client": "Wonderlust Travels",
+    "date": "April 2024",
+    "status": "Completed",
+    "tags": ["Booking", "Travel-Tech", "E-commerce"],
+    "challenges": [
+      "Handling real-time inventory for tour operators.",
+      "Secure payment processing in multiple currencies.",
+      "Mobile-first responsive design for travelers."
+    ],
+    "techStack": ["Next.js", "Tailwind CSS", "Sanity CMS", "PayPal API"],
+    "results": "Increased online bookings by 40% in the first two months.",
+    "benefits": [
+      "Simplified booking process increases conversion rates.",
+      "Multi-language support expands global customer reach.",
+      "Automated itineraries reduce manual planning workload."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Company IT Infrastructure",
+    "category": "Information Technology",
+    "description": "Setting up secure IT infrastructure for company-wide operations.",
+    "longDescription": "A complete overhaul of corporate networking, server management, and cybersecurity protocols. We moved the entire operation to a hybrid cloud model for maximum security and scalability.",
+    "image": "/images/information 2.png",
+    "client": "Nexus Enterprises",
+    "date": "December 2023",
+    "status": "Completed",
+    "tags": ["Infrastructure", "Cybersecurity", "Networking"],
+    "challenges": [
+      "Migrating 10TB of data without downtime.",
+      "Setting up hardware firewalls across 3 branch offices.",
+      "Implementing Zero-Trust security architecture."
+    ],
+    "techStack": ["Cisco Networking", "Azure Cloud", "Docker", "Kubernetes"],
+    "results": "Achieved 99.99% uptime and zero security breaches.",
+    "benefits": [
+      "Enterprise-grade security protects sensitive company data.",
+      "Seamless cloud migration improves scalability and flexibility.",
+      "Automated backup systems ensure business continuity."
+    ]
+  }
+]
