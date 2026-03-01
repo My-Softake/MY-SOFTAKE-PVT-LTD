@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+ 
 import { PieChart, Pie, Cell, ResponsiveContainer, Label } from "recharts";
 import { FiMoreVertical } from "react-icons/fi";  
 

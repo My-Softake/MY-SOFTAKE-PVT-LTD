@@ -1,6 +1,6 @@
 import { useLocale, useTranslations } from "next-intl";
 import Link from "next/link";
-import React from "react";
+ 
 
 const GetInTouch = () => {
 const locale = useLocale();  

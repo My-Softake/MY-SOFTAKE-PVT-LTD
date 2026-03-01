@@ -6,7 +6,7 @@ import OurLetestProject from "@/components/modules/public/OurLetestProject";
 import OurPartner from "@/components/modules/public/OurPartner";
 import OurRecentCaseStudies from "@/components/modules/public/OurRecentCaseStudies";
 import OurService from "@/components/modules/public/OurService";
-import React from "react";
+ 
 
 const page = () => {
   return (

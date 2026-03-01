@@ -3,7 +3,7 @@ import FAQSection from "@/components/modules/public/FAQSection";
 import { getTranslations } from "next-intl/server";
 import Image from "next/image";
 import Link from "next/link";
-import React from "react";
+ 
 import { BsArrowRight } from "react-icons/bs";
 
 
