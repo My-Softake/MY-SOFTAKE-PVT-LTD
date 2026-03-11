@@ -3,7 +3,7 @@ import EarningChart from "@/components/modules/admin/EarningChart";
 import InstitutionTable from "@/components/modules/public/InstitutionTable";
 import StudentPiChart from "@/components/modules/admin/StudentPiChart";
 import TotalCount from "@/components/sheard/TotalCount";
-import React from "react";
+ 
 
 const page = () => {
   return (

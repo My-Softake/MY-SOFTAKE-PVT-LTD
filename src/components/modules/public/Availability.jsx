@@ -31,6 +31,8 @@ export default function Availability() {
     fetchWeeklySlots();
   }, []);
 
+
+
   // Helper to format date for headers (e.g., "Mon 10")
   const formatHeaderDate = (dateStr) => {
     const date = new Date(dateStr);

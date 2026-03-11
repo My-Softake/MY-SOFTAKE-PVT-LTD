@@ -1,8 +1,6 @@
 
 import { Geist, Geist_Mono, Roboto } from "next/font/google";
 import { NextIntlClientProvider } from 'next-intl';
-
-
 import "../globals.css";
 import { Providers } from "@/providers/Providers";
 import { getMessages } from "next-intl/server";

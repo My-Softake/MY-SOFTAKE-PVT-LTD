@@ -1,6 +1,6 @@
 "use client";
 
-import React from "react";
+ 
 import MarqueeLogos from "./MarqueeLogos";
 import { useTranslations } from "next-intl";
 

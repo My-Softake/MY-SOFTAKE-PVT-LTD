@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useParams } from "next/navigation";
-import React from "react";
+ 
 import { useTranslations, useLocale } from "next-intl";
 
 const CaseStudyDetailsPage = () => {

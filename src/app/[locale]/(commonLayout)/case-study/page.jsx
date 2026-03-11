@@ -5,7 +5,7 @@ import FAQSection from "@/components/modules/public/FAQSection";
 import GetInTouch from "@/components/modules/public/GetInTouch";
 
 import { getTranslations } from "next-intl/server";
-import React from "react";
+ 
 
 const CaseStudy = async ({params}) => {
   const t = await getTranslations("CaseStudy", params);

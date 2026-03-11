@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  mysoftake:
+    build: .
+    container_name: mysoftake-app
+    ports:
+      - "3002:3002"
+    environment:
+       - PORT=3002
+    env_file:
+      - .env
+    restart: unless-stopped

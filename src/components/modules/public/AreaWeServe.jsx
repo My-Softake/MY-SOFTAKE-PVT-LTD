@@ -1,7 +1,7 @@
 "use client"
 
 import Image from "next/image";
-import React from "react";
+ 
 import { useTranslations } from "next-intl";
 import { FaMapMarkerAlt } from "react-icons/fa";
 

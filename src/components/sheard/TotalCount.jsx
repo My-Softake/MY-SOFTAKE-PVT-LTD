@@ -1,4 +1,4 @@
-import React from "react";
+ 
 import { FiTrendingUp, FiUsers } from "react-icons/fi";
 import { LuGraduationCap, LuBuilding2 } from "react-icons/lu";
 import { HiOutlineBanknotes } from "react-icons/hi2";
