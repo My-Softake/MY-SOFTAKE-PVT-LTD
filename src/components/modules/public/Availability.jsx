@@ -15,7 +15,7 @@ export default function Availability() {
     setLoading(true);
     try {
       // Fetching without date params as you mentioned the backend sends 7 days by default
-      const res = await fetch(`https://k5z6sq3b-8000.inc1.devtunnels.ms/api/v1/booking/available-slots/`);
+      const res = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/booking/available-slots/`);
       if (!res.ok) throw new Error("Failed to fetch slots");
       const responseData = await res.json();
       setData(responseData);
