@@ -162,7 +162,7 @@
     "rightsReserved": "All rights reserved.",
     "termsOfService": "Terms of Service",
     "privacyPolicy": "Privacy Policy"
-  },
+  },  
   "ServiceData": {
     "servicedetailspage": "Service Details Page",
     "servicedetailspageparagraph": "From Manufacturing to IT, Transport, Tourism, and Construction – delivering innovative solutions for every industry.",
@@ -964,7 +964,7 @@
     "contactInfo": {
       "address": {
         "title": "Address",
-        "details": "Sector 9, Road 3/E, House 04, Uttara, Dhaka-1230."
+        "details": "House 15, Road 18, Sector 10, Uttara, Dhaka-1230."
       },
       "phone": {
         "title": "Phone",
@@ -1393,7 +1393,7 @@
       "noMeetingsFree": "No meetings · All slots free",
       "noSchedule": "No Schedule loaded for this week."
     }
-  },
+  },    
   "CaseStudy": {
     "title": "Company Overview",
     "description": "MY SOFTAKE PVT LTD. is a forward-thinking company delivering innovative and reliable solutions across multiple industries, continually striving for excellence through expertise and strategic vision.",

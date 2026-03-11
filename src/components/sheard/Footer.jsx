@@ -127,7 +127,7 @@ const Footer = () => {
             <div className="space-y-3 text-[14px]">
               <div className="flex items-start gap-3">
                 <HiOutlineLocationMarker className="text-lg mt-0.5 flex-shrink-0" />
-                <p>Sector 9, Road 3/E, House 04, Uttara, Dhaka-1230.</p>
+                <p>House 15, Road 18, Sector 10, Uttara, Dhaka-1230.</p>
               </div>
               <div className="flex items-center gap-3">
                 <FaPhoneAlt className="flex-shrink-0" />
