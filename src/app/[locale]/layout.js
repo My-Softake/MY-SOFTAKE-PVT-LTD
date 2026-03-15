@@ -47,7 +47,7 @@ export default async function LocaleLayout({ children, params }) {
       suppressHydrationWarning 
       className={`${geistSans.variable} ${geistMono.variable} ${roboto.variable}`}
     >
-      <body className="antialiased font-roboto">
+      <body className="antialiased font-roboto" suppressHydrationWarning>
         <NextIntlClientProvider locale={locale} messages={messages}>
           <Providers>
             {children}
