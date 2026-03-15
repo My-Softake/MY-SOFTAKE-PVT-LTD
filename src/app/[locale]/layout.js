@@ -26,6 +26,10 @@ const roboto = Roboto({
 export const metadata = {
   title: "My Softake",
   description: "We are a Software company",
+  icons: {
+    icon: "/icon.png",
+    apple: "/apple-icon.png",
+  },
 };
 
 
